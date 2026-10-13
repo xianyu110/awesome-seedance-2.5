@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-[🎬 电影感 / 动作](#cinematic) · [🎒 生活流 / Vlog](#lifestyle) · [🧑‍🎨 角色一致 / 图生视频](#character) · [🐉 奇幻 / 世界观](#fantasy) · [📣 品牌 / 广告](#commercial) · [🎵 音乐 / 长片](#music) · [⚖️ 对比评测](#compare) · [🧩 其他](#other) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [Agent Skills](#agent-skills) · [来源仓库](#来源仓库) · [数据](#数据)
+[🎬 电影感 / 动作](#cinematic) · [🎒 生活流 / Vlog](#lifestyle) · [🧑‍🎨 角色一致 / 图生视频](#character) · [🐉 奇幻 / 世界观](#fantasy) · [📣 品牌 / 广告](#commercial) · [🎵 音乐 / 长片](#music) · [⚖️ 对比评测](#compare) · [🧩 其他](#other) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [Agent Skills](#agent-skills) · [来源仓库](#来源仓库) · [相关链接](#相关链接) · [数据](#数据)
 
 ## 收录标准
 
@@ -242,6 +242,16 @@ npx skills add xianyu110/awesome-seedance-2.5
 | [incendies/seedance-2.5-prompts-api-and-guide](https://github.com/incendies/seedance-2.5-prompts-api-and-guide) | 100 条可复制提示词 |
 | [apimodels/awesome-seedance2.5-prompts](https://github.com/apimodels/awesome-seedance2.5-prompts) | 小体量带预览 |
 | X 原帖 | 创作者公开提示词 |
+
+
+## 相关链接
+
+体验 Seedance 2.5 时可用的社区相关入口（非官方，自行甄别）：
+
+| 类型 | 链接 |
+|---|---|
+| 中转站 | [tryallapi.com](https://tryallapi.com/) |
+| API 站 | [trygpt.asia](https://trygpt.asia/) |
 
 ## 数据
 

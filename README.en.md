@@ -129,6 +129,16 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 
 <sub>+2 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=other).</sub>
 
+
+## Related
+
+Community-related entry points for trying Seedance 2.5 (unofficial; use at your own discretion):
+
+| Type | Link |
+|---|---|
+| API gateway / relay | [tryallapi.com](https://tryallapi.com/) |
+| API site | [trygpt.asia](https://trygpt.asia/) |
+
 ## Data
 
 - [`cases.json`](cases.json) — 1024 cases, updated 2026-10-13 21:27 (UTC+8)
