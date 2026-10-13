@@ -2,7 +2,7 @@
 
 [English](README.en.md) | 简体中文
 
-这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **58 个「视频 + 公开提示词」案例**（51 条整理自 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)，其余来自 X 原帖），分 7 类。每条都署名并链接到原帖，可一键复制提示词。
+这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **1380 个「视频 + 公开提示词」案例**（51 条整理自 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)，其余来自 X 原帖），分 7 类。每条都署名并链接到原帖，可一键复制提示词。
 
 **这是 Seedance 2.5 版本专项、且只收有公开提示词的画廊**。仅有视频、无提示词的帖子不收录。跨版本大合集请看 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)；结构对齐 [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)。
 

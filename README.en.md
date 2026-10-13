@@ -2,7 +2,7 @@
 
 [English](README.en.md) | [简体中文](README.md)
 
-Curated **Seedance 2.5** showcases that include a **public prompt** (post body or author reply). **58 prompt+video cases** (51 harvested from [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance), rest from X). Video-only posts without prompts are excluded.
+Curated **Seedance 2.5** showcases that include a **public prompt** (post body or author reply). **1380 prompt+video cases** (145 harvested from [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance), rest from X). Video-only posts without prompts are excluded.
 
 **[🌐 Live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
