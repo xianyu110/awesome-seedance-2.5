@@ -1,0 +1,7 @@
+Seedance 2.5 is live inside eComrads.
+
+We've been testing it in the engine, ahead of the public API. It's the biggest jump ad video has taken since we started:
+
+• 30-second ads in a single take, no stitching
+• sound generated in the same pass as the picture
+• 50 references per

@@ -1,0 +1,57 @@
+Use reference image 1 for the lead. Her look must stay identical to
+image 1 for the entire video. Ignore any UI or text in the image.
+The video has exactly one lead. Every shot is built around her.
+Other people appear only briefly as background figures, ghostly
+audience members or blurred dancers. Every face except the lead's
+must be blurred, or hidden behind curtains, candelabra, hat brims,
+veils, backlight or foreground objects. No second face may ever be
+readable. No second lead.
+
+Style: gothic dark female vocal music video, live-action cinematic.
+Ruin romance, Victorian mourning aesthetic, cold mystery. Locations
+run from rain-soaked stone steps to a flooded opera house hall, a
+red velvet stage, and a corridor of shattered mirrors. Rain streaks,
+candle flame, drifting dust, volumetric light, light film grain,
+suspended particles in the air.
+Palette: ink black, cold stone grey, dark wine red, moon white. The
+only warm light source is candle flame and chandeliers. The image
+must be high contrast. Blacks crushed to full black, highlights with
+a visible source. No flat washed-out grey image.
+
+LIGHTING BAN, HIGHEST PRIORITY: lens flares, bokeh orbs, glare and
+out-of-focus foreground objects may only appear at the edges of frame
+or behind the subject. At no point may any of them cover, obstruct or
+land on the lead's face. Her features stay clearly readable
+throughout.
+
+CAMERA: the camera never stops. Every beat has a clear, obvious
+displacement. No locked-off shots, no tripod. Close-ups, medium,
+wide, all of them, cut often but naturally. Transitions happen
+through a curtain sweeping past, a rain sheet, candle flame blowing
+out the exposure, a mirror reflection, or the subject walking through
+frame. Never soften a camera move with words like "slight" or "slow".
+
+MUSIC, GLOBAL: gothic dark female pop, 3/4 dark waltz, around 86 BPM.
+Cello, harpsichord, deep heartbeat drum, female lead vocal, wordless
+female choir bed. Young female voice, cold and airy with a
+suppressed vibrato. English lyrics with a clear hook. Backing track
+loud, full low end, clear drums.
+
+0-5s [MUSIC: rain, distant thunder and one isolated sustained cello
+note. No vocal, no drums.] Rain at night on the wide stone steps of
+an abandoned opera house. The lead stands alone halfway up, her black
+gothic dress soaked, rain streaking through the porch light behind
+her. Camera starts on an extreme wide from above, dives down along
+the steps, pushes in to a medium, and settles as she lifts her chin.
+Background: two blurred figures under black umbrellas walk up the
+steps from the left and right edges, backs to camera, never turning
+around. No lyrics, no lip sync.
+
+5-10s [MUSIC: heartbeat drum and harpsichord enter together, the
+waltz locks in, verse begins.] Cut inside the hall. A sheet of
+standing water on the floor reflects the broken chandeliers above.
+She walks through it, each step throwing ripples. Camera tracks
+sideways low over the water surface, catches the reflection first,
+then tilts up to a close-up of her face, then cuts to her fingertips
+dragging along a wet stone column. Background: three figures with
+blurred faces sit motionless in the audience seats, backs to camera,

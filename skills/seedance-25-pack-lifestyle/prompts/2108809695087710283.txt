@@ -1,0 +1,35 @@
+SCENE: A day in New York shot entirely by the subject herself: waking in her hotel suite, coffee, getting ready, out into the city, back to the room at night.
+
+ACTIVE REFERENCES: @image1 — the hotel suite. Curved cove ceiling with warm LED coving, deep red carpet, cream walls, two black organic sculptures above a light wood headboard, white bedding with red pillows, twin bedside lamps, pale sofa, oval coffee table, sheer curtains, dark door. @image2 — the subject. Young woman, shoulder-length wavy blonde hair with curtain bangs and highlights, light freckles, thin gold necklace, silver ring, dark brown off-the-shoulder knit with white diamond-stripe pattern. 100% matches the reference.
+
+CAMERA OWNERSHIP LOCK: Only two positions exist. HELD: arm extended, camera 0.4–0.7m from her face, visible arm tension, tilt and step-bounce. PROPPED: camera on a surface she placed it on, crooked and fixed, with her moving in and out of frame. No operator shots, no tracking, nothing she could not have filmed alone.
+
+FORMAT: Eight shots, 30s, seven hard cuts, no fades. Real-time.
+
+0–4s SHOT 1 — PROPPED, morning room. Camera on the sideboard 3m from the bed at 1.1m, static and tilted. The suite matches @image1: cove light on, curtains half open, cool daylight across the red carpet. @image2 is visible at 0.0s, sitting up on the bed edge. She rubs her face and says to the running camera: “It’s seven. In New York. Why am I awake.” She stands and walks out screen-right. HARD CUT.
+
+4–7s SHOT 2 — HELD, window light. Arm’s length, above eye line. She pulls the curtain, squints at the street below, then looks into the lens: “Okay. It’s actually happening.” Arm wobble throughout. HARD CUT.
+
+7–11s SHOT 3 — PROPPED, coffee. Camera on the oval coffee table, low, looking up past a cup. She sits into frame, pours, tastes, and says: “Hotel coffee. We’ll fix that outside.” Steam bends in the light. HARD CUT.
+
+11–15s SHOT 4 — HELD, mirror. Camera at chest height reflected in the suite mirror. She works through her hair with the other hand. At 13s: “This is as good as it gets. Let’s go.” HARD CUT.
+
+15–18s SHOT 5 — HELD, leaving. Camera held low at waist height, turned forward. She crosses the red carpet to the door. She opens it and corridor light floods the frame. Off-frame: “Downtown first.” HARD CUT.
+
+18–22s SHOT 6 — PROPPED, street. Camera on a stoop rail, static and crooked. A New York block behind her: brownstone steps, fire escapes, yellow cabs, steam from a vent. She walks in from screen-left, stands in frame, and says: “Look at this street.” Then walks to the lens and takes it. Passers-by cross the foreground. HARD CUT.
+
+22–26s SHOT 7 — PROPPED, diner. Camera on the counter behind a plate, looking up. She sits into frame, takes a bite, eyes widen, and says: “Okay, that’s the one.” She laughs and keeps eating. HARD CUT.
+
+26–30s SHOT 8 — HELD, night, back in the room. She lies back across the white bedding, hair spread, in the brown knit again. Bedside lamps and cove light are the only sources. Into the lens: “Twenty thousand steps. Everything hurts.” Softer: “Same time tomorrow.” She waves as she lowers the camera. 30.0s black.
+
+SPEECH: Only the quoted lines are spoken, at the timings given, all in her voice. Lips still at all other times. No voiceover, no second speaker, no offscreen voices. Delivery is casual, unrehearsed, mid-breath, sometimes trailing off.
+
+CONTINUITY: The suite matches @image1 in both interior sequences. Hair, necklace, ring, face, body proportions, and outfit details remain identical throughout.
+
+PHYSICS: Loose knit slides on the shoulder with every arm movement. Wavy hair lags a frame behind head turns. Bedding creases under her weight. Step energy is visible in every HELD frame.
+
+LIGHTING: Shots 1–4 use cool daylight from the curtains as key and warm cove LED as fill. Shot 5 uses corridor light. Shots 6–7 use hard street daylight and warm diner practicals. Shot 8 uses lamps and cove light only.
+
+AUDIO: Diegetic only, from the same camera — room tone, footsteps, door, traffic, sirens, steam vents, diner clatter, and wind. Ambience ducks under her lines. No music.
+
+LOCKS: Photoreal live action, 4K detail, fine grain, warm consumer-camera color, mild rolling shutter and auto-exposure hunting. She is the only person who speaks. Background figures are anonymous and unfocused. No subtitles.

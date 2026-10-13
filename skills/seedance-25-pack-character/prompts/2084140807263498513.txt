@@ -1,0 +1,5 @@
+ByteDance has launched its new video model Dreamina Seedance 2.5 and its genuinely impressive.
+
+Use up to 50 reference files for a single clip and produce 30 seconds of continuous video in one take.
+
+For the first 7 days it will only run on Dreamina, making this a world-first

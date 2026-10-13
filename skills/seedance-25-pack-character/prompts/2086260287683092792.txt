@@ -1,0 +1,3 @@
+Dreamina Seedance 2.5 from @BytePlusGlobal is now available on OpenRouter.
+
+A joint audio-video model for long-form storytelling, multimodal reference, and precise editing. Generate up to 30 seconds in one pass, then extend across multiple rounds, supporting up to 50 references.

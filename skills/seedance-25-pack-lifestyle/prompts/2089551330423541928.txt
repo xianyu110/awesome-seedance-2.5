@@ -1,0 +1,6 @@
+Duration: 30 seconds
+Aspect Ratio: 16:9
+Create a photorealistic smartphone travel vlog following one woman on an exciting first trip across the United States.
+CHARACTER:
+Use @Image1 only for identity.
+Preserve her recognizable face, natural facial

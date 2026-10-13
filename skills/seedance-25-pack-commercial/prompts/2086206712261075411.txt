@@ -1,0 +1,9 @@
+Quieres hacer UGC con IA que no parezca hecho con IA?
+
+No empieces escribiendo un prompt.
+
+Empieza con un vídeo que ya funciona.
+
+Analízalo escena por escena: cámara, iluminación, movimientos, voz, ritmo, captions…
+
+Dale ese breakdown a Seedance 2.5 en Higgsfield y úsalo para

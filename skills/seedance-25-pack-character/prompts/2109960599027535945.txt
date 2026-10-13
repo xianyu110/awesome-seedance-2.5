@@ -1,0 +1,54 @@
+Pack 1 : REFERENCES: Bartender = humanoid android bartender (exact face, black hair, white shirt, black vest, thin black tie, leather apron, silver mechanical neck collar, silver mechanical right hand). Woman = newly divorced woman (exact face, dark-brown shoulder hair, camel trench, cream blouse). Bar = rainy late-night Seoul bar (walnut counter, leather stools, amber bottle shelves, rain window with blurred neon). Keep every identity, outfit and set identical to refs throughout. Only these two people exist in the scene.
+
+PROP LOCKS: PROP-SOJU = one green glass soju bottle with white label, clear liquid, on the counter; same bottle every shot. PROP-GLASS = small clear rocks glass. PROP-RING = thin plain polished gold band on Woman's left ring finger until she removes it; after removal it lies alone on the counter, identical design.
+
+LOOK: low saturation, low-to-mid contrast, warm amber backbar key, cool blue rain-window fill, soft halation, filmic grain, shallow depth of field, slow intimate handheld-steady camera. Rain sound, soft glass clinks, low ambient hum.
+
+GLASS PHYSICS LOCK (critical): PROP-GLASS is a solid heavy-bottomed small clear rocks glass, real weight. Pour: bottle neck tilts over the glass, a thin steady stream of clear liquid enters and fills it two-thirds; no spill, no liquid floating. Drinking: Woman lifts the glass with her right hand by the side, brings it to her lips, tilts her head back slowly, the liquid level visibly drops, she swallows (throat moves), then lowers the glass and sets it down flat on the counter with a soft audible clink — full base contacts the wood, glass stays upright and still, no hovering, no sliding, no tipping, no merging into her hand or the counter, no glass vanishing or duplicating. After setting, the glass remains in the exact same spot near her right hand for the rest of the shot. Only one glass on her side of the counter at all times.
+
+PACING: slow, unhurried, natural Korean delivery; silent breathing pauses between lines; emotion carried by eyes, rain and stillness.
+
+0–6s: Wide on Bar, rain streaking the window. Woman enters damp from rain and sits at the center stool, mascara slightly smudged. Bartender silently sets PROP-GLASS before her and slowly pours PROP-SOJU with his silver hand.
+Bartender (warm, calm): 「오늘은 독한 게 필요하신 얼굴이네요.」
+Pause. Woman (bitter little laugh): 「티 나요?」
+
+6–15s: Medium close on Woman. She lifts PROP-GLASS, drinks it slowly in one long tilt (level drops, throat swallows), then sets it down flat on the counter with a soft clink, eyes watering. Long silence, rain.
+Woman (voice cracking, slow): 「오늘 이혼했어요. 10년… 도장 하나로 끝났어요.」
+
+15–22s: Reverse on Bartender, head tilted slightly, processing. A beat.
+Bartender (soft): 「10년을 버틴 사람은, 약한 사람이 아니에요.」
+
+22–30s: Close-up on her hands twisting PROP-RING. A tear drops on the counter.
+Woman (barely audible): 「그 사람은… 날 한 번도 제대로 안 봤어요.」
+Hold on her face, then slow push-in on Bartender's eyes — the faintest amber flicker. End on that look.
+
+NEGATIVE: no floating or hovering glass, no glass passing through hand or lips, no glass landing tilted or off the counter edge, no spilled liquid, no glass morphing or duplicating, no fast or rushed speech, no extra dialogue, no other people, no other robots, no crowd, no prop morphing, no ring change, no bottle change, no face or outfit drift, no exaggerated crying, no screaming, no kissing, no cartoon robot, no exposed circuitry on face, no subtitles, no text.
+
+Pack 2 : REFERENCES: Bartender = humanoid android bartender (exact face, black hair, white shirt, black vest, thin black tie, leather apron, silver mechanical neck collar, silver mechanical right hand). Woman = newly divorced woman (exact face, dark-brown shoulder hair, camel trench, cream blouse). Bar = rainy late-night Seoul bar (walnut counter, leather stools, amber bottle shelves, rain window with blurred neon). Keep every identity, outfit and set identical to refs throughout. Only these two people exist in the scene.
+
+PROP LOCKS: PROP-SOJU = one green glass soju bottle with white label, clear liquid, on the counter; same bottle every shot. PROP-GLASS = small clear rocks glass. PROP-RING = thin plain polished gold band, ALREADY REMOVED in Part 1: it lies alone on the counter beside PROP-GLASS for the entire clip, untouched. Her left ring finger is bare (faint pale ring mark) throughout. She never puts it on or takes it off.
+
+LOOK: low saturation, low-to-mid contrast, warm amber backbar key, cool blue rain-window fill, soft halation, filmic grain, shallow depth of field, slow intimate handheld-steady camera. Rain sound, soft glass clinks, low ambient hum.
+
+GLASS PHYSICS LOCK (critical): PROP-GLASS is a solid heavy-bottomed small clear rocks glass, real weight. Pour: bottle neck tilts over the glass, a thin steady stream of clear liquid enters and fills it two-thirds; no spill, no liquid floating. Drinking: Woman lifts the glass with her right hand by the side, brings it to her lips, tilts her head back slowly, the liquid level visibly drops, she swallows (throat moves), then lowers the glass and sets it down flat on the counter with a soft audible clink — full base contacts the wood, glass stays upright and still, no hovering, no sliding, no tipping, no merging into her hand or the counter, no glass vanishing or duplicating. After setting, the glass remains in the exact same spot near her right hand for the rest of the shot. Only one glass on her side of the counter at all times.
+
+PACING: slow, unhurried, natural Korean delivery; silent breathing pauses between lines; emotion carried by eyes, rain and stillness.
+
+CONTINUITY: continues directly from Part 1 — same seat, same glass half-full, ring already off and lying on the counter, same rain.
+
+0–8s: Close-up: PROP-RING lying alone on the counter; her bare fingers resting near it. Bartender, gentle:
+Bartender: 「저는 봤어요. 그 반지, 빼기 전에 세 번이나 돌리셨어요.」
+Woman looks up, stunned, half-laughing through tears: 「…그걸 세고 있었어요?」
+
+8–17s: Two-shot across the counter, rain reflections on both faces. Long pause.
+Woman (bitter, quiet): 「넌 좋겠다. 아픈 거 모르잖아.」
+Bartender freezes; his amber irises flicker. He slowly places his silver hand on his chest.
+Bartender (quiet, almost trembling): 「…모르는 줄 알았어요. 근데 지금, 여기가 아파요.」
+
+17–25s: Silence. Her bare hand rests on the counter beside PROP-RING. Bartender's silver hand slowly covers her hand.
+Bartender (tender): 「이제 혼자 아니에요.」
+
+25–30s: She holds his hand, whispering through tears: 「…고마워요.」
+Final slow push-in on Woman's face: tears still on her cheeks, she breaks into a soft, trembling teary smile — the first smile of the night — holding his hand. Hold on her smile. Rain continues. Cut to black.
+
+NEGATIVE: no ring on her finger, no ring removal action, no picking up the ring, no ending on his eyes, no glowing-eye close-up at the end, no floating or hovering glass, no glass passing through hand or lips, no glass landing tilted or off the counter edge, no spilled liquid, no glass morphing or duplicating, no fast or rushed speech, no extra dialogue, no other people, no other robots, no crowd, no prop morphing, no ring change, no bottle change, no face or outfit drift, no exaggerated crying, no screaming, no kissing, no cartoon robot, no exposed circuitry on face, no subtitles, no text.

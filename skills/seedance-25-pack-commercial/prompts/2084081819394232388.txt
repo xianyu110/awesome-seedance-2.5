@@ -1,0 +1,5 @@
+AI video is moving beyond short clips and into full production workflows.
+
+Dreamina has globally launched Seedance 2.5 with native 30-second videos generated in one pass, reducing the continuity problems caused by stitching several shorter clips together.
+
+Creators can guide a

@@ -58,8 +58,49 @@
     {
       "name": "seedance-25-gallery-index",
       "path": "skills/seedance-25-gallery-index",
-      "description": "Index skill for all 18 curated Seedance 2.5 gallery cases: maps each demo to a recipe skill, links the live awesome-seedance-2.5 gallery, and covers compare / picnic-vlog / meme cases as reference demos. Use for Seedance 2.5 examples, case study, gallery, awesome-seedance-2.5."
+      "description": "Index skill mapping 18 recipe demos (5 with public prompts) onto the prompt-only awesome-seedance-2.5 gallery: maps each demo to a recipe skill, links the live awesome-seedance-2.5 gallery, and covers compare / picnic-vlog / meme cases as reference demos. Use for Seedance 2.5 examples, case study, gallery, awesome-seedance-2.5."
+    },
+    {
+      "name": "seedance-25-pack-cinematic",
+      "path": "skills/seedance-25-pack-cinematic",
+      "description": "Seedance 2.5 cinematic/action category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-lifestyle",
+      "path": "skills/seedance-25-pack-lifestyle",
+      "description": "Seedance 2.5 lifestyle/Vlog category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-character",
+      "path": "skills/seedance-25-pack-character",
+      "description": "Seedance 2.5 character-lock/I2V category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-fantasy",
+      "path": "skills/seedance-25-pack-fantasy",
+      "description": "Seedance 2.5 fantasy/worlds category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-commercial",
+      "path": "skills/seedance-25-pack-commercial",
+      "description": "Seedance 2.5 brand/commercial category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-music",
+      "path": "skills/seedance-25-pack-music",
+      "description": "Seedance 2.5 music/long-form category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-compare",
+      "path": "skills/seedance-25-pack-compare",
+      "description": "Seedance 2.5 comparison category pack with curated public gallery prompts."
+    },
+    {
+      "name": "seedance-25-pack-other",
+      "path": "skills/seedance-25-pack-other",
+      "description": "Seedance 2.5 misc category pack with curated public gallery prompts."
     }
   ],
-  "count": 12
+  "updated_at": "2026-10-13 21:27 (UTC+8)",
+  "case_count": 1024
 }

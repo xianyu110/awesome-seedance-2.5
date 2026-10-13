@@ -1,0 +1,9 @@
+2/ Model capability summary
+
+Seedance 2.5 supports:
+
+• Multi-Asset Reference: up to 50 assets
+• 30s Direct Generation: extendable twice
+• 3D White Model &amp; Green Screen Editing
+
+These target consistency, duration and spatial control respectively.

@@ -1,0 +1,6 @@
+i genuinely don't understand why i'm the only one using this...
+
+Andrej Karpathy, engineer at Anthropic, invented the concept of the LLM Wiki inside Obsidian
+
+i used it to build my own local knowledge base for generating AI videos on autopilot, here's how it works:
+- i sent to

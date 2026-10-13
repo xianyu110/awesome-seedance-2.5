@@ -1,0 +1,1 @@
+Seedance 2.5 1280 x 720 vs Comfyui Minimax H3 1376 x 768 test... Used the same prompt just changed it by Minimax's prompt guide sugestions. Image reference used in both (the seedance had the daytime backdrop and the h3 had the night time that was my fault I uploded the wrong

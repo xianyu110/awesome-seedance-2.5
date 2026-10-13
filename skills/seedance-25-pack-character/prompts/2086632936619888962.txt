@@ -1,0 +1,5 @@
+This video was made with 1 midjourney frame + Seedance 2.5
+
+The script was performed through audio and fed into it as reference. 
+
+The rest of the prompt was minimal.

@@ -1,0 +1,16 @@
+SEEDANCE 2.5 PROMPTER AND COMPARISON
+
+Anne Boleyn’s final walk.
+For this test, I recreated the moment Anne is led toward the scaffold —building the emotion through performance, blocking, camera direction, atmosphere, and sound rather than showing graphic violence.
+
+What makes Seedance 2.5 feel like a real upgrade is control: more characters, videos, and audios references in the same generation, supports up to 30 seconds in a single pass, and is designed for continuous storytelling rather than isolated shots. That means more room to preserve identity, emotional progression and spatial continuity.
+
+But more capability also means more decisions. A vague prompt can still produce a beautiful clip with the wrong character, the wrong action order, or a broken transition. That’s why I created the Seedance 2.5 Prompter: it turns a scene idea into the right Seedance workflow—mapping every reference, defining what must stay consistent, structuring the action, and writing the camera and audio direction clearly.
+
+The Seedance 2.5 PROMPTER turns your scripts and ideas into flawless, copy-ready video prompts — built on the official guide, not outdated templates.
+
+Less guessing. Fewer wasted generations. More intentional storytelling. 🎬
+
+Prompt used and link to the Seedance 2.5 Prompter in the replies 👇
+
+Video Created in @dreamina_ai

@@ -1,0 +1,7 @@
+How to create the most realistic AI UGC for promoting apps or ecommerce:
+
+1. Give your agent access to a short-form content research API (for apps, you can use the appkittie API)
+
+2. Tell the agent to find viral UGC videos in your niche
+
+3. Give it access to a video analysis tool

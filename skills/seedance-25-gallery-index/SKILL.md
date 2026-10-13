@@ -11,7 +11,7 @@ metadata:
 
 # Seedance 2.5 · Gallery Index (recipe map → full prompt gallery)
 
-Recipe map for director workflows. Full prompt-only gallery (**467** cases) lives in this same repo: [github](https://github.com/xianyu110/awesome-seedance-2.5) · [live](https://xianyu110.github.io/awesome-seedance-2.5). Some early demo posts without public prompts stay linked as pattern references only.
+Recipe map for director workflows. Full prompt-only gallery (**1024** cases) lives in this same repo: [github](https://github.com/xianyu110/awesome-seedance-2.5) · [live](https://xianyu110.github.io/awesome-seedance-2.5). Some early demo posts without public prompts stay linked as pattern references only.
 
 ## How to use
 

@@ -1,0 +1,7 @@
+Seedance 2.5 - AI tạo video 30 giây, 1 take, 50 reference 🎬
+
+Mình đã thử: → Nhập 30 ảnh → Thêm 10 clip → Thêm 10 audio
+
+Kết quả: Video hoàn chỉnh, không cần chỉnh sửa.
+
+Dùng để: → Làm video phân tích thị trường → Giải thích tin tức crypto → Review dự án AI

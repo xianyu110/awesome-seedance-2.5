@@ -1,0 +1,9 @@
+Seedance 2.5で作られていたこちらの動画、
+同じプロンプトを使って MiniMax H3（ローカル） でも30秒の広告動画を作ってみました。
+前半15秒：Image to Video
+→ 約11分
+
+後半15秒：Reference to Video（参照画像3枚）
+→ 約30分
+環境：RTX 4070 Ti SUPER 16GB / RAM 64GB
+Turboなし・軽量化あり

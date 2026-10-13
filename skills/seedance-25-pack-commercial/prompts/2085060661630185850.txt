@@ -1,0 +1,5 @@
+AI video is shifting from flashy demos to real production workflows.
+
+Seedance 2.5, officially available via BytePlus, solves major hurdles like character consistency and wasted output.
+
+Join our webinars (Session 1: Aug 7, Session 2: Aug 13) to see how 30s generation and

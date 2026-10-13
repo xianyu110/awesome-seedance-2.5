@@ -1,0 +1,13 @@
+Reference layer: Based on image, the rider's face, hair, build, and clothing stay identical in every frame. Same person, same outfit, no identity or appearance drift.
+
+Storyboard:
+
+0-4s: Low angle on a cliff ledge. The rider vaults onto the dragon's neck and grips the saddle ridge. The dragon's wings snap open, blasting dust and loose stones off the rock as the wind builds.
+
+4-10s: The dragon launches off the cliff with one heavy downward wingbeat, creating a stomach-drop fall before its wings catch air and it climbs hard. The rider flattens low against the neck, hair and clothing ripped back by the wind. The camera falls with them, then rises alongside.
+
+10-16s: They punch up through the cloud layer, vapor tearing around the wings in streaks, then break into open golden light above the clouds. The rider slowly sits upright, squinting into the sun, briefly lifting one hand from the ridge. The camera drifts into a wide side profile, with the dragon's wings spanning the frame.
+
+16-23s: The dragon folds one wing and dives into a steep banking turn along a cliff face. Stone blurs past as the rider leans into the turn, straps straining against the force. At the bottom of the dive, the dragon levels out low over the ocean, its wingtips skimming spray from the water. The camera chases from behind and above.
+
+23-30s: The dragon climbs toward the low sun, wings beating slowly and heavily. The rider looks back over their shoulder once, then turns forward. They crest the highest peak into full golden light, the dragon silhouetted against the sun. Hold on the wide cinematic frame until 30 seconds.

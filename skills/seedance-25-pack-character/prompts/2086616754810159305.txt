@@ -1,0 +1,5 @@
+First tests with Seedance 2.5
+
+A single 25 second video clip with 3 reference images and it's noticeably better than 2.0
+
+It's now going to be a matter of what you can imagine or create art assets for, to bring an idea to the Video Screen

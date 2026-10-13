@@ -1,0 +1,233 @@
+Create a highly realistic 30-second cinematic smartphone vlog featuring THREE young adult women exploring a beautiful small American mountain village.
+
+REFERENCE IMAGES & IDENTITY:
+Use the 3 uploaded reference images as identity references.
+
+REFERENCE IMAGE 1 = MAIN VLOGGER.
+REFERENCE IMAGE 2 = FRIEND 1.
+REFERENCE IMAGE 3 = FRIEND 2.
+
+Preserve each woman's facial identity, facial features, hairstyle, skin tone, body proportions and overall appearance consistently throughout the entire video. Never swap or mix their identities.
+
+MAIN VLOGGER — GIRL 1:
+A beautiful young adult woman with the exact identity and facial appearance from Reference Image 1. She is the main character and the person filming the entire vlog.
+
+DRESSING:
+She wears a stylish fitted cream/ivory knit top, high-waisted light-blue straight-leg jeans, an elegant beige cropped trench jacket, clean white sneakers, and a small tan leather crossbody bag. Add delicate gold jewelry, a simple gold necklace and small hoop earrings.
+
+Her overall fashion should feel classy, modern, feminine and effortlessly stylish, like a fashionable young woman spending a weekend in a beautiful American mountain village.
+
+Her hair, makeup and outfit remain exactly consistent throughout the entire video.
+
+FRIEND 1 — GIRL 2:
+Use the exact identity from Reference Image 2.
+
+DRESSING:
+She wears a stylish fitted sage-green sweater, high-waisted off-white wide-leg pants, a light beige cardigan, clean white sneakers and a small brown shoulder bag. Add minimal elegant gold jewelry.
+
+She has a naturally stylish, relaxed and feminine appearance.
+
+FRIEND 2 — GIRL 3:
+Use the exact identity from Reference Image 3.
+
+DRESSING:
+She wears a stylish dusty-blue fitted long-sleeve top, high-waisted dark-wash straight-leg jeans, a light cream denim jacket, clean white sneakers and a small black crossbody bag. Add simple elegant earrings.
+
+All three women must have DIFFERENT outfits, colors and accessories, but their outfits should look naturally coordinated as a stylish group.
+
+Do NOT use gymwear, athletic clothing, formal dresses or overly revealing clothing.
+
+LOCATION:
+A beautiful small American mountain village during a bright, fresh morning.
+
+The village has beautiful narrow winding streets, charming wooden houses, cozy front porches, stone pathways, flower gardens, wooden fences, small local shops, trees and large green mountains surrounding the village.
+
+The environment should feel peaceful, authentic, naturally lived-in and photorealistic.
+
+A few local residents and small children can be naturally visible in the background, playing or walking around the village. Keep the background uncrowded.
+
+CAMERA & VLOG STYLE:
+The main woman holds a modern smartphone herself throughout the vlog and records in authentic arm's-length selfie mode.
+
+The camera must feel like a real personal smartphone vlog.
+
+Natural handheld movement, subtle hand movement, realistic walking motion, slight imperfect framing, natural autofocus adjustments and tiny exposure changes.
+
+The main woman must clearly be the person filming.
+
+Never show a camera operator.
+
+The smartphone itself should never be visible in the frame.
+
+Keep all three women visually consistent throughout the entire video.
+
+STORYBOARD — EXACTLY 30 SECONDS:
+
+CUT 01 — 0:00–0:05
+MORNING VILLAGE INTRO
+
+The main woman walks along a beautiful narrow village street while holding the smartphone in selfie mode.
+
+Her two female friends walk naturally beside and slightly behind her.
+
+She smiles toward the camera and says naturally:
+
+“Good morning from this little village!”
+
+The mountains and charming houses are visible behind them.
+
+Natural walking and friendly expressions.
+
+CUT 02 — 0:05–0:10
+EXPLORING THE VILLAGE
+
+The main woman continues walking and briefly turns the phone toward the beautiful surroundings.
+
+Show narrow streets, wooden houses, flower gardens, small porches, trees and mountains.
+
+Small children can be seen naturally playing nearby.
+
+She turns the phone back toward herself and her friends.
+
+All three women smile and casually interact while walking.
+
+CUT 03 — 0:10–0:14
+THE CAR MOMENT
+
+A beautiful classic American car naturally drives past them on the narrow village street.
+
+The car passes reasonably close but safely.
+
+The main woman notices it, turns the phone slightly toward the car and smiles.
+
+She says:
+
+“So pretty!”
+
+Her friends react naturally and smile.
+
+The moment should feel spontaneous, not staged.
+
+CUT 04 — 0:14–0:20
+WALKING TO THE COFFEE SHOP
+
+The three women continue walking together through the beautiful village.
+
+They casually talk, laugh and enjoy the morning.
+
+Show several cinematic walking angles while maintaining the authentic smartphone-vlog feeling.
+
+They approach a charming small local coffee shop with a warm, cozy exterior.
+
+Use a natural jump cut as they enter the café.
+
+CUT 05 — 0:20–0:25
+COFFEE
+
+Inside the cozy local coffee shop, the three women order coffee.
+
+Show the main woman receiving a freshly prepared coffee.
+
+She smiles toward the phone.
+
+The friends receive their coffees as well.
+
+They walk outside together.
+
+Keep their faces, outfits, hairstyles and identities perfectly consistent.
+
+CUT 06 — 0:25–0:30
+MOUNTAIN COFFEE MOMENT
+
+The three women stand outside the coffee shop with their drinks.
+
+The main woman holds the smartphone in selfie mode and takes a sip of her coffee.
+
+Her two friends stand naturally beside her.
+
+The beautiful mountain landscape and village street are visible behind them.
+
+She smiles and says:
+
+“Honestly, I love this place.”
+
+The camera naturally turns slightly toward the village and mountains before ending.
+
+VISUAL STYLE:
+
+Ultra-photorealistic live-action.
+Natural human movement.
+Realistic skin texture.
+Realistic hair movement.
+Natural facial expressions.
+Realistic walking biomechanics.
+Authentic smartphone camera quality.
+Beautiful bright morning daylight.
+Natural shadows and reflections.
+Cinematic but still believable as a personal travel vlog.
+Professional visual quality without looking like a commercial.
+
+AUDIO:
+
+Natural diegetic sound only:
+footsteps,
+light wind,
+birds,
+distant village sounds,
+children playing,
+car passing,
+café ambience,
+coffee cup sounds,
+natural conversation.
+
+No background music.
+No narrator.
+No subtitles.
+No artificial voice-over.
+
+CONTINUITY:
+
+Keep all three women exactly consistent throughout the entire video.
+
+No identity changes.
+No face swapping.
+No hairstyle changes.
+No clothing changes.
+No accessory changes.
+No age changes.
+No duplicated people.
+
+The main woman always remains the person holding and operating the smartphone.
+
+NEGATIVE PROMPT:
+
+No bicycles.
+No motorcycles.
+No main male character.
+No camera operator.
+No visible smartphone.
+No selfie stick.
+No CGI.
+No animation.
+No cartoon style.
+No artificial-looking faces.
+No distorted faces.
+No distorted hands.
+No extra fingers.
+No duplicated people.
+No identity mixing.
+No face morphing.
+No changing outfits.
+No changing hairstyles.
+No changing accessories.
+No futuristic buildings.
+No crowded city.
+No unrealistic cars.
+No impossible physics.
+No excessive camera shake.
+No slow motion.
+No dramatic action scenes.
+No subtitles.
+No text.
+No logos.
+No watermark.

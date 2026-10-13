@@ -5,8 +5,8 @@
     "url": "https://github.com/xianyu110"
   },
   "metadata": {
-    "description": "Awesome Seedance 2.5 — prompt-only gallery + 12 installable Agent Skills for ByteDance Seedance 2.5 (director, cinematic, DV, I2V, fantasy, brand, MV)",
-    "version": "1.1.0"
+    "description": "Awesome Seedance 2.5 — 1024 prompt+cover cases + Agent Skills (director, themes, 8 category packs)",
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -26,7 +26,15 @@
         "./skills/seedance-25-fight-previz-pipeline",
         "./skills/seedance-25-brand-commercial",
         "./skills/seedance-25-music-mv-longform",
-        "./skills/seedance-25-gallery-index"
+        "./skills/seedance-25-gallery-index",
+        "./skills/seedance-25-pack-cinematic",
+        "./skills/seedance-25-pack-lifestyle",
+        "./skills/seedance-25-pack-character",
+        "./skills/seedance-25-pack-fantasy",
+        "./skills/seedance-25-pack-commercial",
+        "./skills/seedance-25-pack-music",
+        "./skills/seedance-25-pack-compare",
+        "./skills/seedance-25-pack-other"
       ]
     }
   ]

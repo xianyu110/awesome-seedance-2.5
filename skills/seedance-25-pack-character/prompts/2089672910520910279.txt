@@ -1,0 +1,24 @@
+Use @ [storyboard ref] only for each P## panel's staging, framing, blocking, screen positions, and direction. Ignore line-sketch artifacts; written beats, references, and global fields define final content.
+Use @ [character ref] only for Zeyn's final identity, hair, ornaments, earrings, and flowing black wardrobe.
+Do not transfer Zeyn's reference-controlled features or wardrobe to C2.
+C2 is a slim adult guest with tied dark hair and a plain indigo kimono.
+LOOK + WORLD: Refined cinematic 2D anime, inked contours and watercolor in a rustic tatami chashitsu; hearth and kettle behind Zeyn's left, tokonoma back-right. Amber black-red-gold light with matcha green, natural 50mm depth, thin steam.
+ACTION + CAMERA: Exact hands and pauses; insert cuts rise through pour and whisk, then breathe at offering and sip. Controlled pushes and locked details preserve the left-right axis; stillness punctuates.
+VFX SYSTEM: Translucent kettle steam and one matcha droplet emerge from their sources and fade naturally.
+SOUND: No music; kettle simmer, silk folds, bamboo on ceramic, brisk whisking, soft bowl contact.
+BEATS:
+P01: Profile ECU, push: Zeyn draws the red silk fukusa from her black sleeve and opens it with one crisp, weighted snap.
+P02: High front 3/4 CU, locked: her fingers fold the cloth into exact triangles without disturbing her long sleeves.
+P03: Top-down CU, locked: the fukusa crosses the lacquer natsume lid once, leaving the container centered and closed.
+P04: Low profile ECU, track: she encloses the bamboo chashaku shaft in the cloth and draws it cleanly through.
+P05: High OTS MS, tilt: she lifts the hishaku from the fixed kettle and pours hot water into the single chawan; steam opens briefly.
+P06: Profile CU, locked: she settles the chasen tips into the hot water, gently flexing and softening the bamboo tines.
+P07: Front 3/4 CU, pan: she empties the bowl into the kensui, then wipes the same chawan interior once with the white chakin.
+P08: Profile ECU, push: the chashaku lifts one measured scoop of vivid matcha from the natsume toward the waiting bowl.
+P09: Top-down ECU, locked: a second measured scoop lands beside the first, forming two small green mounds at center.
+P10: Low front 3/4 CU, tilt: a thin hishaku stream joins the powder while amber light catches the rising steam.
+P11: High OTS CU, push: Zeyn drives the chasen in a quick wrist-led W rhythm, sleeves steady while the liquid accelerates.
+P12: Top-down ECU, locked: fine even foam spreads across the surface as the whisk slows near the center.
+P13: Profile ECU, push: she lifts the chasen vertically; one green droplet hangs, falls into the foam, and disappears.
+P14: Front 3/4 MS, track: Zeyn turns the chawan's decorated front toward C2 and slides it across the tatami boundary with both hands.
+P15: High OTS CU, locked:
