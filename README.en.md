@@ -1,256 +1,31 @@
 # Awesome Seedance 2.5
 
-English | [简体中文](README.md)
+[简体中文](README.md) | English
 
-Curated **Seedance 2.5** clips with **public prompts**. **467** cases (LearnPrompt 142 · BeatAPI 318 · other originals 7) across 8 categories. Every row credits the author and links the source post.
+A curated gallery of **Seedance 2.5** videos that ship with a **public prompt**. **477 prompt+video cases** (LearnPrompt 142 · BeatAPI 318 · X originals 17).
 
-**Seedance 2.5 only, public prompts only — plus installable Agent Skills in the same repo.** Cross-version mega-list: [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance). Layout mirrors [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1).
-
-```bash
-npx skills add xianyu110/awesome-seedance-2.5
-```
+**Prompt-only rule:** video-only posts are not listed.
 
 **[🌐 Open the live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
-<table>
-  <tr>
-    <td width="25%" align="center"><a href="https://x.com/techhalla/status/2083389002552664385"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="200" alt="Frozen Time and Rewind in a 1950s Diner"></a><br><sub>Frozen Time and Rewind in a 1950s Diner · @techhalla</sub></td><td width="25%" align="center"><a href="https://x.com/AIwithkhan/status/2092971211169100048"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="200" alt="Seoul Summer Night Vlog"></a><br><sub>Seoul Summer Night Vlog · @AIwithkhan</sub></td><td width="25%" align="center"><a href="https://x.com/abxxai/status/2095179656802844727"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="200" alt="Selfie-Style Skincare UGC Ad"></a><br><sub>Selfie-Style Skincare UGC Ad · @abxxai</sub></td><td width="25%" align="center"><a href="https://x.com/Strength04_X/status/2083094742682787939"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="200" alt="Mini DV Coffee ASMR Vlog"></a><br><sub>Mini DV Coffee ASMR Vlog · @Strength04_X</sub></td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="200" alt="Two-Idol K-pop MV, Shot by Shot"></a><br><sub>Two-Idol K-pop MV, Shot by Shot · @Just_sharon7</sub></td><td width="25%" align="center"><a href="https://x.com/AIwithSynthia/status/2108760866422415701"><img src="https://media.goodcase.ai/cases/e7a04f6d6d46.jpg" width="200" alt="Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin"></a><br><sub>Seoul Subway Revenge: Woman Throws Her T · @AIwithSynthia</sub></td><td width="25%" align="center"><a href="https://x.com/cnyzgkc/status/2099029556434985065"><img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="200" alt="Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take"></a><br><sub>Seedance 2.5 Hyperreal AI Live Wallpaper · @cnyzgkc</sub></td><td width="25%" align="center"><a href="https://x.com/Zarnab_with_Ai/status/2104764823091490851"><img src="https://media.goodcase.ai/cases/88ca30c0568f.jpg" width="200" alt="Toddler Opens Doors to Learn Letters and Words"></a><br><sub>Toddler Opens Doors to Learn Letters and · @Zarnab_with_Ai</sub></td>
-  </tr>
-</table>
+## Inclusion
 
-[⚡ Install skills](#install-agent-skills) · [🎬 Cinematic & Action](#cinematic) · [🎒 Lifestyle & Vlog](#lifestyle) · [🧑‍🎨 Character & I2V](#character) · [🐉 Fantasy & Worlds](#fantasy) · [📣 Brand & Commercial](#commercial) · [🎵 Music & Long-form](#music) · [⚖️ Comparisons](#compare) · [🧩 Other (fun, platform tests)](#other) · [Inclusion rules](#inclusion-rules) · [What is Seedance 2.5](#what-is-seedance-25) · [Source repos](#source-repos) · [Data](#data)
+- Original creator posts that explicitly name **Seedance 2.5**
+- Public prompt (≥80 chars) in the post body, an author reply, or a sourced GitHub repo
+- Deduped by URL / prompt hash; `source_attribution` credits imports
+- Snapshot: 2026-10-13 21:14 (UTC+8)
 
+## Sources
 
-## Install Agent Skills
-
-This repo also ships **12 Seedance 2.5 Agent Skills** (director prompts, cinematic action, DV lifestyle, character-lock I2V, fantasy duel, brand film, MV, …) for Claude Code, Codex, and Cursor.
-
-### One-line install
-
-```bash
-npx skills add xianyu110/awesome-seedance-2.5
-```
-
-Or copy manually:
-
-```bash
-git clone https://github.com/xianyu110/awesome-seedance-2.5.git
-cd awesome-seedance-2.5
-mkdir -p ~/.claude/skills && cp -r skills/* ~/.claude/skills/
-# Codex: ~/.codex/skills · Cursor: .cursor/skills
-```
-
-Claude Code marketplace: `/plugin marketplace add xianyu110/awesome-seedance-2.5`
-
-### Skills
-
-| Skill | Role | Public prompt |
-|---|---|---|
-| [`seedance-25-prompt-director`](skills/seedance-25-prompt-director) | Director OS / camera / audio layers | — |
-| [`seedance-25-cinematic-action`](skills/seedance-25-cinematic-action) | Trailer-style action beats | — |
-| [`seedance-25-dv-day-in-life`](skills/seedance-25-dv-day-in-life) | DV day-in-the-life (fuji_ai_) | ✅ JA |
-| [`seedance-25-boxing-handheld`](skills/seedance-25-boxing-handheld) | Handheld boxing gym | ✅ JA |
-| [`seedance-25-mech-backpack`](skills/seedance-25-mech-backpack) | Hypercar → backpack one-take | ✅ ZH |
-| [`seedance-25-cat-knight-duel`](skills/seedance-25-cat-knight-duel) | Cat knight vs dragon | ✅ ZH |
-| [`seedance-25-ocean-kingdom-pov`](skills/seedance-25-ocean-kingdom-pov) | POV ocean kingdom | ✅ EN |
-| [`seedance-25-character-lock-i2v`](skills/seedance-25-character-lock-i2v) | Still lock → Seedance physics | — |
-| [`seedance-25-fight-previz-pipeline`](skills/seedance-25-fight-previz-pipeline) | Previz → text → refs | — |
-| [`seedance-25-brand-commercial`](skills/seedance-25-brand-commercial) | Brand narrative film | — |
-| [`seedance-25-music-mv-longform`](skills/seedance-25-music-mv-longform) | Multi-clip MV desk | — |
-| [`seedance-25-gallery-index`](skills/seedance-25-gallery-index) | Recipe map → full gallery | — |
-
-> The former standalone `seedance-2.5-skills` repo is merged here — use the install command above.
-
-## Inclusion rules
-
-- Original creator posts only.
-- Must clearly claim **Seedance 2.5** (not bare Seedance / 2.0 / Mini / Fast).
-- **Public prompt (≥80 chars) + preview cover** required.
-- Deduped by URL and prompt hash. README shows top examples; full set in the gallery.
-- Engagement snapshot: 2026-10-13 21:11 (UTC+8). See `source_attribution` for provenance.
-
-## What is Seedance 2.5
-
-ByteDance Seed’s next video+audio model after Seedance 2.0: ~4–30s one-take clips, stronger multi-modal references.
-
-Official: [seed.bytedance.com/en/seedance2_5](https://seed.bytedance.com/en/seedance2_5)
-
-<a id="cinematic"></a>
-## 🎬 Cinematic & Action
-
-196 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/cnyzgkc/status/2099029556434985065"><img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="160" alt="Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take"></a> | [Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take](https://x.com/cnyzgkc/status/2099029556434985065) | Seedance 2.5 | [@cnyzgkc](https://x.com/cnyzgkc) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2099029556434985065) |
-| <a href="https://x.com/Zarnab_with_Ai/status/2104764823091490851"><img src="https://media.goodcase.ai/cases/88ca30c0568f.jpg" width="160" alt="Toddler Opens Doors to Learn Letters and Words"></a> | [Toddler Opens Doors to Learn Letters and Words](https://x.com/Zarnab_with_Ai/status/2104764823091490851) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2104764823091490851) |
-| <a href="https://x.com/Zarnab_with_Ai/status/2106560621932384657"><img src="https://media.goodcase.ai/cases/e7b938f20d48.jpg" width="160" alt="Toddler Copies Dad’s Shaving, Foam Beard Makes Parents Laugh"></a> | [Toddler Copies Dad’s Shaving, Foam Beard Makes Parents Laugh](https://x.com/Zarnab_with_Ai/status/2106560621932384657) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106560621932384657) |
-| <a href="https://x.com/RishuaVR/status/2089204108175741157"><img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="160" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl"></a> | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://x.com/RishuaVR/status/2089204108175741157) | Seedance 2.5 | [@RishuaVR](https://x.com/RishuaVR) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2089204108175741157) |
-| <a href="https://x.com/AIwithSynthia/status/2106955772395659431"><img src="https://media.goodcase.ai/cases/17336ecf1069.jpg" width="160" alt="University Lab Infection Turns Students into Zombies"></a> | [University Lab Infection Turns Students into Zombies](https://x.com/AIwithSynthia/status/2106955772395659431) | Seedance 2.5 | [@AIwithSynthia](https://x.com/AIwithSynthia) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106955772395659431) |
-| <a href="https://x.com/AIwithkhan/status/2106397932304191969"><img src="https://media.goodcase.ai/cases/3b9300fbc51d.jpg" width="160" alt="A Miniature Woman’s Parkour Adventure in a Convenience Store"></a> | [A Miniature Woman’s Parkour Adventure in a Convenience Store](https://x.com/AIwithkhan/status/2106397932304191969) | Seedance 2.5 | [@AIwithkhan](https://x.com/AIwithkhan) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106397932304191969) |
-| <a href="https://x.com/johnAGI168/status/2095025524586193105"><img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="160" alt="Seedance 2.5 Dance Clip Real Enough to Fool You"></a> | [Seedance 2.5 Dance Clip Real Enough to Fool You](https://x.com/johnAGI168/status/2095025524586193105) | Seedance 2.5 | [@johnAGI168](https://x.com/johnAGI168) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2095025524586193105) |
-| <a href="https://x.com/Aqsahere_/status/2087386090315616601"><img src="https://media.goodcase.ai/cases/5ee3737281f4.jpg" width="160" alt="Cyberpunk Holographic Dance Performance"></a> | [Cyberpunk Holographic Dance Performance](https://x.com/Aqsahere_/status/2087386090315616601) | Seedance 2.5 | [@Aqsahere_](https://x.com/Aqsahere_) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087386090315616601) |
-| <a href="https://x.com/Just_sharon7/status/2103032789910401038"><img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="160" alt="Summer-Night Fashion Girl by a Speeding Metro"></a> | [Summer-Night Fashion Girl by a Speeding Metro](https://x.com/Just_sharon7/status/2103032789910401038) | Seedance 2.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:09 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2103032789910401038) |
-| <a href="https://x.com/itsSaira_1/status/2108765927194198397"><img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="160" alt="A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral"></a> | [A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral](https://x.com/itsSaira_1/status/2108765927194198397) | Seedance 2.5 | [@itsSaira_1](https://x.com/itsSaira_1) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108765927194198397) |
-| <a href="https://x.com/sophiaparkerr_/status/2107096810783461509"><img src="https://media.goodcase.ai/cases/ae2aea3e33c4.jpg" width="160" alt="Woman in a Red Dress Carries Groceries to a Mountaintop Cloud Home"></a> | [Woman in a Red Dress Carries Groceries to a Mountaintop Cloud Home](https://x.com/sophiaparkerr_/status/2107096810783461509) | Seedance 2.5 | [@sophiaparkerr_](https://x.com/sophiaparkerr_) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107096810783461509) |
-| <a href="https://x.com/Zarnab_with_Ai/status/2099683790717325390"><img src="https://media.goodcase.ai/cases/270ba8ecea3b.jpg" width="160" alt="Playful Rabbit Couple Kissing and Cuddling on a Sofa"></a> | [Playful Rabbit Couple Kissing and Cuddling on a Sofa](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2099683790717325390) |
-
-<sub>+184 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic).</sub>
-
-<a id="lifestyle"></a>
-## 🎒 Lifestyle & Vlog
-
-61 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/techhalla/status/2083389002552664385"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="160" alt="Frozen Time and Rewind in a 1950s Diner"></a> | [Frozen Time and Rewind in a 1950s Diner](https://x.com/techhalla/status/2083389002552664385) | Seedance 2.5 | [@techhalla](https://x.com/techhalla) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083389002552664385) |
-| <a href="https://x.com/AIwithkhan/status/2092971211169100048"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="160" alt="Seoul Summer Night Vlog"></a> | [Seoul Summer Night Vlog](https://x.com/AIwithkhan/status/2092971211169100048) | Seedance 2.5 | [@AIwithkhan](https://x.com/AIwithkhan) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2092971211169100048) |
-| <a href="https://x.com/Strength04_X/status/2083094742682787939"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="160" alt="Mini DV Coffee ASMR Vlog"></a> | [Mini DV Coffee ASMR Vlog](https://x.com/Strength04_X/status/2083094742682787939) | Seedance 2.5 | [@Strength04_X](https://x.com/Strength04_X) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083094742682787939) |
-| <a href="https://x.com/AIwithSynthia/status/2108760866422415701"><img src="https://media.goodcase.ai/cases/e7a04f6d6d46.jpg" width="160" alt="Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin"></a> | [Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin](https://x.com/AIwithSynthia/status/2108760866422415701) | Seedance 2.5 | [@AIwithSynthia](https://x.com/AIwithSynthia) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108760866422415701) |
-| <a href="https://x.com/sipteaandcoffee/status/2104887547243774358"><img src="https://media.goodcase.ai/cases/8394fd6c092a.jpg" width="160" alt="A Korean Woman’s Morning Workout at a Neighborhood Gym"></a> | [A Korean Woman’s Morning Workout at a Neighborhood Gym](https://x.com/sipteaandcoffee/status/2104887547243774358) | Seedance 2.5 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | 0:45 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2104887547243774358) |
-| <a href="https://x.com/BubbleBrain/status/2083659648108990925"><img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="160" alt="Handheld Travel Vlog From Apartment to Beach"></a> | [Handheld Travel Vlog From Apartment to Beach](https://x.com/BubbleBrain/status/2083659648108990925) | Seedance 2.5 | [@BubbleBrain](https://x.com/BubbleBrain) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083659648108990925) |
-| <a href="https://x.com/techhalla/status/2083585132917579834"><img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="160" alt="Roller Coaster Wig Mishap: A Second Take on Frozen Time"></a> | [Roller Coaster Wig Mishap: A Second Take on Frozen Time](https://x.com/techhalla/status/2083585132917579834) | Seedance 2.5 | [@techhalla](https://x.com/techhalla) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083585132917579834) |
-| <a href="https://x.com/Strength04_X/status/2091737661061095648"><img src="https://media.goodcase.ai/cases/68ae69f99fe4.jpg" width="160" alt="Korean Girl Outdoor Pool Vlog"></a> | [Korean Girl Outdoor Pool Vlog](https://x.com/Strength04_X/status/2091737661061095648) | Seedance 2.5 | [@Strength04_X](https://x.com/Strength04_X) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2091737661061095648) |
-| <a href="https://x.com/Zarnab_with_Ai/status/2106347953711661482"><img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="160" alt="Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug"></a> | [Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106347953711661482) |
-| <a href="https://x.com/saniaspeaks_/status/2098742251472261330"><img src="https://media.goodcase.ai/cases/38369ab7e574.jpg" width="160" alt="A Korean Woman’s Summer Day on a Traditional Farm"></a> | [A Korean Woman’s Summer Day on a Traditional Farm](https://x.com/saniaspeaks_/status/2098742251472261330) | Seedance 2.5 | [@saniaspeaks_](https://x.com/saniaspeaks_) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2098742251472261330) |
-| <a href="https://x.com/Lianaalane/status/2106951270380802264"><img src="https://media.goodcase.ai/cases/44495a5166ef.jpg" width="160" alt="A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery"></a> | [A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery](https://x.com/Lianaalane/status/2106951270380802264) | Seedance 2.5 | [@Lianaalane](https://x.com/Lianaalane) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106951270380802264) |
-| <a href="https://x.com/doctorwasif/status/2107824210899055039"><img src="https://media.goodcase.ai/cases/a904b5da80b2.jpg" width="160" alt="A Korean Woman’s Afternoon at Home: Plants, Laundry and Nails"></a> | [A Korean Woman’s Afternoon at Home: Plants, Laundry and Nails](https://x.com/doctorwasif/status/2107824210899055039) | Seedance 2.5 | [@doctorwasif](https://x.com/doctorwasif) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107824210899055039) |
-
-<sub>+49 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle).</sub>
-
-<a id="character"></a>
-## 🧑‍🎨 Character & I2V
-
-42 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/aimikoda/status/2106044483863191748"><img src="https://media.goodcase.ai/cases/4e5f9347c75d.jpg" width="160" alt="Braided Swordswoman Breaks Out of the Letterbox Frame"></a> | [Braided Swordswoman Breaks Out of the Letterbox Frame](https://x.com/aimikoda/status/2106044483863191748) | Seedance 2.5 | [@aimikoda](https://x.com/aimikoda) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106044483863191748) |
-| <a href="https://x.com/QtImVCr6WK56152/status/2106252278940541142"><img src="https://media.goodcase.ai/cases/9e3e27e76494.jpg" width="160" alt="Seedance 2.5 30-second couple bedroom POV: a boyfriend who can&#x27;t comfort her, only pinch her cheek ("></a> | [Seedance 2.5 30-second couple bedroom POV: a boyfriend who can't comfort her, only pinch her cheek (](https://x.com/QtImVCr6WK56152/status/2106252278940541142) | Seedance 2.5 | [@QtImVCr6WK56152](https://x.com/QtImVCr6WK56152) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106252278940541142) |
-| <a href="https://x.com/Chengzilhy/status/2087458506123465088"><img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="160" alt="Boa Hancock Water Obstacle Race Prompt"></a> | [Boa Hancock Water Obstacle Race Prompt](https://x.com/Chengzilhy/status/2087458506123465088) | Seedance 2.5 | [@Chengzilhy](https://x.com/Chengzilhy) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087458506123465088) |
-| <a href="https://x.com/techhalla/status/2085200942060691807"><img src="https://media.goodcase.ai/media/poster/90s-diner-time-freeze-effect.jpg" width="160" alt="90s Diner Time Freeze Effect"></a> | [90s Diner Time Freeze Effect](https://x.com/techhalla/status/2085200942060691807) | Seedance 2.5 | [@techhalla](https://x.com/techhalla) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2085200942060691807) |
-| <a href="https://x.com/Xaroon_x/status/2107412153577935128"><img src="https://media.goodcase.ai/cases/474b42d3e724.jpg" width="160" alt="Comeback Knockout in an Octagon Showdown"></a> | [Comeback Knockout in an Octagon Showdown](https://x.com/Xaroon_x/status/2107412153577935128) | Seedance 2.5 | [@Xaroon_x](https://x.com/Xaroon_x) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107412153577935128) |
-| <a href="https://x.com/Chaemate_/status/2107691578605322348"><img src="https://media.goodcase.ai/cases/f2027a8ab748.jpg" width="160" alt="Dance Duo Across a Sunset Studio, Neon Alley and Tokyo Rooftop"></a> | [Dance Duo Across a Sunset Studio, Neon Alley and Tokyo Rooftop](https://x.com/Chaemate_/status/2107691578605322348) | Seedance 2.5 | [@Chaemate_](https://x.com/Chaemate_) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107691578605322348) |
-| <a href="https://x.com/CaliraVal/status/2107697202646987178"><img src="https://media.goodcase.ai/cases/c5e375e7e334.jpg" width="160" alt="Woman in a White Fur Jacket Walking Through Snowy Mountains"></a> | [Woman in a White Fur Jacket Walking Through Snowy Mountains](https://x.com/CaliraVal/status/2107697202646987178) | Seedance 2.5 | [@CaliraVal](https://x.com/CaliraVal) | 0:04 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107697202646987178) |
-| <a href="https://x.com/saniaspeaks_/status/2091103923440328783"><img src="https://media.goodcase.ai/media/poster/case-365f2a3615b1.jpg" width="160" alt="Chance Encounter at a Korean City Bus Stop"></a> | [Chance Encounter at a Korean City Bus Stop](https://x.com/saniaspeaks_/status/2091103923440328783) | Seedance 2.5 | [@saniaspeaks_](https://x.com/saniaspeaks_) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2091103923440328783) |
-| <a href="https://x.com/Noor_ul_ain43/status/2087774014957850843"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="160" alt="Seedance 2.5 Storm Harbor Disaster Movie Sequence"></a> | [Seedance 2.5 Storm Harbor Disaster Movie Sequence](https://x.com/Noor_ul_ain43/status/2087774014957850843) | Seedance 2.5 | [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087774014957850843) |
-| <a href="https://x.com/itsphotogptai/status/2089672910520910279"><img src="https://media.goodcase.ai/cases/4f0337074c6c.jpg" width="160" alt="Cinematic Matcha Tea Ceremony"></a> | [Cinematic Matcha Tea Ceremony](https://x.com/itsphotogptai/status/2089672910520910279) | Seedance 2.5 | [@itsphotogptai](https://x.com/itsphotogptai) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2089672910520910279) |
-| <a href="https://x.com/johnAGI168/status/2101647622582792500"><img src="https://pbs.twimg.com/amplify_video_thumb/2101647260903768064/img/2T7UvprdbiWPfc3G.jpg" width="160" alt="Flying hypercar folds into a mech backpack"></a> | [Flying hypercar folds into a mech backpack](https://x.com/johnAGI168/status/2101647622582792500) | Seedance 2.5 | [@johnAGI168](https://x.com/johnAGI168) | 0:14 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2101647622582792500) |
-| <a href="https://x.com/ManuAGI01/status/2086035048701341887"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-created-this-entire-animated-short-using-341887/poster-8febb7853c53c140.jpg" width="160" alt="Animation Study 341887"></a> | [Animation Study 341887](https://x.com/ManuAGI01/status/2086035048701341887) | Seedance 2.5 | [@ManuAGI01](https://x.com/ManuAGI01) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086035048701341887) |
-
-<sub>+30 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character).</sub>
-
-<a id="fantasy"></a>
-## 🐉 Fantasy & Worlds
-
-45 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/itsSaira_1/status/2107685928647160275"><img src="https://media.goodcase.ai/cases/4a7f9d53f8c5.jpg" width="160" alt="Woman in Green Summons a Fiery Tree Guardian Against Demons"></a> | [Woman in Green Summons a Fiery Tree Guardian Against Demons](https://x.com/itsSaira_1/status/2107685928647160275) | Seedance 2.5 | [@itsSaira_1](https://x.com/itsSaira_1) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107685928647160275) |
-| <a href="https://x.com/itsSaira_1/status/2108049177259462719"><img src="https://media.goodcase.ai/cases/680efb813c0b.jpg" width="160" alt="Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons"></a> | [Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons](https://x.com/itsSaira_1/status/2108049177259462719) | Seedance 2.5 | [@itsSaira_1](https://x.com/itsSaira_1) | 0:10 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108049177259462719) |
-| <a href="https://x.com/doctorwasif/status/2094285140247896553"><img src="https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg" width="160" alt="Zombie Outbreak on a Train"></a> | [Zombie Outbreak on a Train](https://x.com/doctorwasif/status/2094285140247896553) | Seedance 2.5 | [@doctorwasif](https://x.com/doctorwasif) | 0:02 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2094285140247896553) |
-| <a href="https://x.com/frametheory058/status/2087007818721423855"><img src="https://media.goodcase.ai/cases/464939ccd5ab.jpg" width="160" alt="First-Person POV Dragon Rider Cinematic"></a> | [First-Person POV Dragon Rider Cinematic](https://x.com/frametheory058/status/2087007818721423855) | Seedance 2.5 | [@frametheory058](https://x.com/frametheory058) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087007818721423855) |
-| <a href="https://x.com/RuzainaMeer/status/2089595902818398461"><img src="https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg" width="160" alt="Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic"></a> | [Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic](https://x.com/RuzainaMeer/status/2089595902818398461) | Seedance 2.5 | [@RuzainaMeer](https://x.com/RuzainaMeer) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2089595902818398461) |
-| <a href="https://x.com/laviniavelle/status/2107333176985317886"><img src="https://media.goodcase.ai/cases/8bed65d44d4c.jpg" width="160" alt="Purple-Haired Sorceress Summons a Water Beast in a Rainy Castle"></a> | [Purple-Haired Sorceress Summons a Water Beast in a Rainy Castle](https://x.com/laviniavelle/status/2107333176985317886) | Seedance 2.5 | [@laviniavelle](https://x.com/laviniavelle) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107333176985317886) |
-| <a href="https://x.com/laviniavelle/status/2105889515948921057"><img src="https://media.goodcase.ai/cases/3b8cf445eb84.jpg" width="160" alt="Woman in White Leaves a Castle and Flies to Pink-Moon Floating Islands"></a> | [Woman in White Leaves a Castle and Flies to Pink-Moon Floating Islands](https://x.com/laviniavelle/status/2105889515948921057) | Seedance 2.5 | [@laviniavelle](https://x.com/laviniavelle) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2105889515948921057) |
-| <a href="https://x.com/Chaemate_/status/2105958420088328486"><img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="160" alt="Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle"></a> | [Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle](https://x.com/Chaemate_/status/2105958420088328486) | Seedance 2.5 | [@Chaemate_](https://x.com/Chaemate_) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2105958420088328486) |
-| <a href="https://x.com/Zyrellix/status/2106604455151980846"><img src="https://media.goodcase.ai/cases/2a36c8531837.jpg" width="160" alt="A Hijab-Wearing Girl’s Moonlit Lantern Walk with a Duckling and Rabbit"></a> | [A Hijab-Wearing Girl’s Moonlit Lantern Walk with a Duckling and Rabbit](https://x.com/Zyrellix/status/2106604455151980846) | Seedance 2.5 | [@Zyrellix](https://x.com/Zyrellix) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106604455151980846) |
-| <a href="https://x.com/Zyrellix/status/2108498562199753052"><img src="https://media.goodcase.ai/cases/c9c113132f69.jpg" width="160" alt="Woman in a Purple Dress Wields Fire on a Ruined Battlefield"></a> | [Woman in a Purple Dress Wields Fire on a Ruined Battlefield](https://x.com/Zyrellix/status/2108498562199753052) | Seedance 2.5 | [@Zyrellix](https://x.com/Zyrellix) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108498562199753052) |
-| <a href="https://x.com/itxabdullaa/status/2107792780395458733"><img src="https://media.goodcase.ai/cases/2ecf28ab3d4e.jpg" width="160" alt="Woodland Guardian Follows Lanterns to a Hidden Tree Settlement"></a> | [Woodland Guardian Follows Lanterns to a Hidden Tree Settlement](https://x.com/itxabdullaa/status/2107792780395458733) | Seedance 2.5 | [@itxabdullaa](https://x.com/itxabdullaa) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107792780395458733) |
-| <a href="https://x.com/Zarnab_with_Ai/status/2108504570603491475"><img src="https://media.goodcase.ai/cases/9784906f7de1.jpg" width="160" alt="Babies and Animals Sail Watermelon Boats on a Fantasy Fruit River"></a> | [Babies and Animals Sail Watermelon Boats on a Fantasy Fruit River](https://x.com/Zarnab_with_Ai/status/2108504570603491475) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | 0:03 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108504570603491475) |
-
-<sub>+33 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy).</sub>
-
-<a id="commercial"></a>
-## 📣 Brand & Commercial
-
-64 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/abxxai/status/2095179656802844727"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="160" alt="Selfie-Style Skincare UGC Ad"></a> | [Selfie-Style Skincare UGC Ad](https://x.com/abxxai/status/2095179656802844727) | Seedance 2.5 | [@abxxai](https://x.com/abxxai) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2095179656802844727) |
-| <a href="https://x.com/Just_sharon7/status/2085277106960007654"><img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="160" alt="Classic Mustang Golden Hour Drive"></a> | [Classic Mustang Golden Hour Drive](https://x.com/Just_sharon7/status/2085277106960007654) | Seedance 2.5 | [@Just_sharon7](https://x.com/Just_sharon7) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2085277106960007654) |
-| <a href="https://x.com/AIwithAliya/status/2090780603872624826"><img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="160" alt="Cinematic Commercial for an Artisan Bakery"></a> | [Cinematic Commercial for an Artisan Bakery](https://x.com/AIwithAliya/status/2090780603872624826) | Seedance 2.5 | [@AIwithAliya](https://x.com/AIwithAliya) | 0:06 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2090780603872624826) |
-| <a href="https://x.com/AIWithRay/status/2087544594384773346"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-eba905fedcff.jpg" width="160" alt="Seedance 2.5 Late-Night Kitchen Phone Footage"></a> | [Seedance 2.5 Late-Night Kitchen Phone Footage](https://x.com/AIWithRay/status/2087544594384773346) | Seedance 2.5 | [@AIWithRay](https://x.com/AIWithRay) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087544594384773346) |
-| <a href="https://x.com/AIwithWania/status/2108420649467457557"><img src="https://media.goodcase.ai/cases/4e32f2f8334d.jpg" width="160" alt="Three Friends Boutique Shopping and Trying On an Emerald Skirt"></a> | [Three Friends Boutique Shopping and Trying On an Emerald Skirt](https://x.com/AIwithWania/status/2108420649467457557) | Seedance 2.5 | [@AIwithWania](https://x.com/AIwithWania) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108420649467457557) |
-| <a href="https://x.com/sipteaandcoffee/status/2107060987157524524"><img src="https://media.goodcase.ai/cases/ec4e8d1301a8.jpg" width="160" alt="Elephant Launches Acrobat into Flips and a Horseback Landing"></a> | [Elephant Launches Acrobat into Flips and a Horseback Landing](https://x.com/sipteaandcoffee/status/2107060987157524524) | Seedance 2.5 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107060987157524524) |
-| <a href="https://x.com/saniaspeaks_/status/2088605003112235033"><img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="160" alt="Tokyo Street Food Phone Vlog"></a> | [Tokyo Street Food Phone Vlog](https://x.com/saniaspeaks_/status/2088605003112235033) | Seedance 2.5 | [@saniaspeaks_](https://x.com/saniaspeaks_) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2088605003112235033) |
-| <a href="https://x.com/AIwithkhan/status/2107081013583089797"><img src="https://media.goodcase.ai/cases/94eb3d1f1cb9.jpg" width="160" alt="Woman with Headphones Strolls the City and Enjoys a Rooftop Sunset"></a> | [Woman with Headphones Strolls the City and Enjoys a Rooftop Sunset](https://x.com/AIwithkhan/status/2107081013583089797) | Seedance 2.5 | [@AIwithkhan](https://x.com/AIwithkhan) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107081013583089797) |
-| <a href="https://x.com/Naiknelofar788/status/2106439652278411435"><img src="https://media.goodcase.ai/cases/313dd39b0f8a.jpg" width="160" alt="Through Turkey’s Neon Old City, Turquoise Seas and Balloon Skies"></a> | [Through Turkey’s Neon Old City, Turquoise Seas and Balloon Skies](https://x.com/Naiknelofar788/status/2106439652278411435) | Seedance 2.5 | [@Naiknelofar788](https://x.com/Naiknelofar788) | 0:06 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106439652278411435) |
-| <a href="https://x.com/MissDelulu9/status/2108101531426083045"><img src="https://media.goodcase.ai/cases/26efe02e5e88.jpg" width="160" alt="A Bare-Faced Woman Swipes into a Glamorous Makeover"></a> | [A Bare-Faced Woman Swipes into a Glamorous Makeover](https://x.com/MissDelulu9/status/2108101531426083045) | Seedance 2.5 | [@MissDelulu9](https://x.com/MissDelulu9) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108101531426083045) |
-| <a href="https://x.com/AIwithkhan/status/2108180243244818861"><img src="https://media.goodcase.ai/cases/508218b6096e.jpg" width="160" alt="A Miniature Woman’s Adventure in a Giant Laundry Room"></a> | [A Miniature Woman’s Adventure in a Giant Laundry Room](https://x.com/AIwithkhan/status/2108180243244818861) | Seedance 2.5 | [@AIwithkhan](https://x.com/AIwithkhan) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108180243244818861) |
-| <a href="https://x.com/tanabe_fragm/status/2096136682055864564"><img src="https://media.goodcase.ai/cases/9012527ae2ae.jpg" width="160" alt="Japanese Influencer Holiday Vlog"></a> | [Japanese Influencer Holiday Vlog](https://x.com/tanabe_fragm/status/2096136682055864564) | Seedance 2.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2096136682055864564) |
-
-<sub>+52 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial).</sub>
-
-<a id="music"></a>
-## 🎵 Music & Long-form
-
-49 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="160" alt="Two-Idol K-pop MV, Shot by Shot"></a> | [Two-Idol K-pop MV, Shot by Shot](https://x.com/Just_sharon7/status/2083422886686031982) | Seedance 2.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083422886686031982) |
-| <a href="https://x.com/aiwarts/status/2085736621685764503"><img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="160" alt="Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard"></a> | [Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard](https://x.com/aiwarts/status/2085736621685764503) | Seedance 2.5 | [@aiwarts](https://x.com/aiwarts) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2085736621685764503) |
-| <a href="https://x.com/Just_sharon7/status/2086067758970851614"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="160" alt="Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs"></a> | [Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs](https://x.com/Just_sharon7/status/2086067758970851614) | Seedance 2.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086067758970851614) |
-| <a href="https://x.com/VeraVCreates/status/2087004800462557485"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-honestly-didn-t-expect-seedance-2-5-to-hold-557485/poster-8a15f0da66294955.jpg" width="160" alt="I honestly didn&#x27;t expect Seedance 2.5 to hold this together so well.😍"></a> | [I honestly didn't expect Seedance 2.5 to hold this together so well.😍](https://x.com/VeraVCreates/status/2087004800462557485) | Seedance 2.5 | [@VeraVCreates](https://x.com/VeraVCreates) | 0:05 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087004800462557485) |
-| <a href="https://x.com/GlennHasABeard/status/2086637239254110436"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-110436/poster-6d588971309051d4.jpg" width="160" alt="Made with Seedance 2.5 on"></a> | [Made with Seedance 2.5 on](https://x.com/GlennHasABeard/status/2086637239254110436) | Seedance 2.5 | [@GlennHasABeard](https://x.com/GlennHasABeard) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086637239254110436) |
-| <a href="https://x.com/VeraVCreates/status/2087005484146635022"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/im-genuinely-impressed-by-how-well-seedance-2-5-keeps-635022/poster-9123633f2f24eb91.jpg" width="160" alt="I’m genuinely impressed by how well Seedance 2.5 keeps the geography intact here！😍"></a> | [I’m genuinely impressed by how well Seedance 2.5 keeps the geography intact here！😍](https://x.com/VeraVCreates/status/2087005484146635022) | Seedance 2.5 | [@VeraVCreates](https://x.com/VeraVCreates) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087005484146635022) |
-| <a href="https://x.com/frametheory058/status/2095003298747318531"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-318531/poster-791d72efef5f4a74.jpg" width="160" alt="Created with Seedance 2.5"></a> | [Created with Seedance 2.5](https://x.com/frametheory058/status/2095003298747318531) | Seedance 2.5 | [@frametheory058](https://x.com/frametheory058) | 0:04 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2095003298747318531) |
-| <a href="https://x.com/minuitIA/status/2086866861480636796"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-636796/poster-4c1674d7992f6291.jpg" width="160" alt="Made with Seedance 2.5 on"></a> | [Made with Seedance 2.5 on](https://x.com/minuitIA/status/2086866861480636796) | Seedance 2.5 | [@minuitIA](https://x.com/minuitIA) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086866861480636796) |
-| <a href="https://x.com/_STARPAR/status/2087131232945459303"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ultra-realistic-spontaneous-vertical-handheld-footage-recorded-during-fi-459303/poster-ec0d9e0fd30adaa5.jpg" width="160" alt="Ultra-realistic spontaneous vertical handheld footage recorded during fighting in"></a> | [Ultra-realistic spontaneous vertical handheld footage recorded during fighting in](https://x.com/_STARPAR/status/2087131232945459303) | Seedance 2.5 | [@_STARPAR](https://x.com/_STARPAR) | 0:03 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087131232945459303) |
-| <a href="https://x.com/MadMax_Series/status/2087187209170423842"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-in-423842/poster-c7d42d7b131e6175.jpg" width="160" alt="Created in"></a> | [Created in](https://x.com/MadMax_Series/status/2087187209170423842) | Seedance 2.5 | [@MadMax_Series](https://x.com/MadMax_Series) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087187209170423842) |
-| <a href="https://x.com/maxescu/status/2087117065874211150"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/here-s-one-of-the-first-tests-211150/poster-50bf8e78d9f30480.jpg" width="160" alt="Here&#x27;s one of the first tests."></a> | [Here's one of the first tests.](https://x.com/maxescu/status/2087117065874211150) | Seedance 2.5 | [@maxescu](https://x.com/maxescu) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087117065874211150) |
-| <a href="https://x.com/happycapyai/status/2087150512609304904"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/real-world-action-is-getting-easier-to-direct-304904/poster-1b360351d9704b67.jpg" width="160" alt="Real-world action is getting easier to direct."></a> | [Real-world action is getting easier to direct.](https://x.com/happycapyai/status/2087150512609304904) | Seedance 2.5 | [@happycapyai](https://x.com/happycapyai) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087150512609304904) |
-
-<sub>+37 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music).</sub>
-
-<a id="compare"></a>
-## ⚖️ Comparisons
-
-10 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=compare)
-
-| Preview | Title | Model | Creator | Dur | Prompt |
-|---|---|---|---|---|---|
-| <a href="https://x.com/Just_sharon7/status/2088878042034868640"><img src="https://media.goodcase.ai/cases/8ca3ebd21bfe.jpg" width="160" alt="Seedance 2.5 Self vs Self: Sharon Fights Sharon"></a> | [Seedance 2.5 Self vs Self: Sharon Fights Sharon](https://x.com/Just_sharon7/status/2088878042034868640) | Seedance 2.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:10 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2088878042034868640) |
-| <a href="https://x.com/baqiceloudezhu/status/2083105322919731519"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-temple-martial-arts-epic/poster-55a39828adb7b236.jpg" width="160" alt="Rainy Temple Martial-Arts Epic"></a> | [Rainy Temple Martial-Arts Epic](https://x.com/baqiceloudezhu/status/2083105322919731519) | Seedance 2.5 | [@baqiceloudezhu](https://x.com/baqiceloudezhu) | 1:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083105322919731519) |
-| <a href="https://x.com/johnAGI168/status/2086814865922965824"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-965824-965824/poster-fa9493fec5b44432.jpg" width="160" alt="屠龙断岳 🆚 倚天涤尘🔪"></a> | [屠龙断岳 🆚 倚天涤尘🔪](https://x.com/johnAGI168/status/2086814865922965824) | Seedance 2.5 | [@johnAGI168](https://x.com/johnAGI168) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086814865922965824) |
-| <a href="https://x.com/john87445528/status/2083760993222426625"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-426625/poster-41d54cf7a9c578f7.jpg" width="160" alt="出来后 2.0 就降智了"></a> | [出来后 2.0 就降智了](https://x.com/john87445528/status/2083760993222426625) | Seedance 2.5 | [@john87445528](https://x.com/john87445528) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083760993222426625) |
-| <a href="https://x.com/TanLuAI/status/2083082840229675186"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/pink-haired-wasteland-zombie-chase/poster-9bd7f4f8eadf203a.jpg" width="160" alt="Pink-Haired Wasteland Zombie Chase"></a> | [Pink-Haired Wasteland Zombie Chase](https://x.com/TanLuAI/status/2083082840229675186) | Seedance 2.5 | [@TanLuAI](https://x.com/TanLuAI) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083082840229675186) |
-| <a href="https://x.com/sailorv321/status/2083129374786949560"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/poster-9b83cf7fd76986c9.jpg" width="160" alt="Live-Action Dance Comparison"></a> | [Live-Action Dance Comparison](https://x.com/sailorv321/status/2083129374786949560) | Seedance 2.5 | [@sailorv321](https://x.com/sailorv321) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083129374786949560) |
-| <a href="https://x.com/ivannaneuro_ai/status/2083193349549314298"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/poster-03b884cc1da9837f.jpg" width="160" alt="Protein Shake UGC Ad"></a> | [Protein Shake UGC Ad](https://x.com/ivannaneuro_ai/status/2083193349549314298) | Seedance 2.5 | [@ivannaneuro_ai](https://x.com/ivannaneuro_ai) | 0:21 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083193349549314298) |
-| <a href="https://x.com/shirawiggles/status/2085814432895057958"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpter-and-comparison-057958/poster-3f4d36269aba7c52.jpg" width="160" alt="MPTER AND COMPARISON"></a> | [MPTER AND COMPARISON](https://x.com/shirawiggles/status/2085814432895057958) | Seedance 2.5 | [@shirawiggles](https://x.com/shirawiggles) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2085814432895057958) |
-| <a href="https://x.com/tanabe_fragm/status/2083085216449741212"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison/poster-20ee3fbcebc970f6.jpg" width="160" alt="Japanese Street Lip-Sync Comparison"></a> | [Japanese Street Lip-Sync Comparison](https://x.com/tanabe_fragm/status/2083085216449741212) | Seedance 2.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:20 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083085216449741212) |
-| <a href="https://x.com/you1873118/status/2083115308693561497"><img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble/poster-0f65ec1a2afe58c4.jpg" width="160" alt="CBD Rooftop Power Ensemble"></a> | [CBD Rooftop Power Ensemble](https://x.com/you1873118/status/2083115308693561497) | Seedance 2.5 | [@you1873118](https://x.com/you1873118) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083115308693561497) |
-
-<a id="other"></a>
-## 🧩 Other (fun, platform tests)
-
-0 cases · [open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=other)
-
-_None yet_
-
-## Source repos
-
-| Repo | Kept | Notes |
-|---|---:|---|
-| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | 142 | Evidence-led 2.5 + promptFull |
-| [BeatAPI/awesome-seedance-2-5-prompts](https://github.com/BeatAPI/awesome-seedance-2-5-prompts) | 318 | Source-verified public prompts + covers |
-| Other (X originals) | 7 | Prior gallery prompt cases |
+- [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+- [BeatAPI/awesome-seedance-2-5-prompts](https://github.com/BeatAPI/awesome-seedance-2-5-prompts)
+- Public X posts / author replies
 
 ## Data
 
-- [`cases.json`](./cases.json) (467 rows, **all with public prompts**)
-- Agent Skills: [`skills/`](./skills/) (12) · [`skills/catalog.json`](./skills/catalog.json) · [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json)
-- Gallery: <https://xianyu110.github.io/awesome-seedance-2.5/>
-- Install: `npx skills add xianyu110/awesome-seedance-2.5`
-- Updated 2026-10-13 21:12 (UTC+8)
+- [`cases.json`](cases.json) — 477 cases, all with prompts
+- Pages: https://xianyu110.github.io/awesome-seedance-2.5/
 
 ## License
 
-Docs: CC0. Videos/prompts remain with original authors.
+MIT
