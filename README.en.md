@@ -2,20 +2,19 @@
 
 [English](README.en.md) | [简体中文](README.md)
 
-Curated **Seedance 2.5** showcases that include a **public prompt** (post body or author reply). **1380 prompt+video cases** (145 harvested from [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance), rest from X). Video-only posts without prompts are excluded.
+Curated **Seedance 2.5** showcases with a **public prompt**. **58 prompt+video cases** (51 from [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance), rest from X). Video-only posts without prompts are excluded.
 
 **[🌐 Live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
 ## Inclusion
 
-- Original posts that clearly claim **Seedance 2.5** / Seedance2.5 / #Seedance2.5.
-- **Must include a public prompt** (post body or author's own reply).
-- **Not** Seedance 2.0 / Mini / Fast unless 2.5 is also stated.
-- Snapshot: 2026-10-13 21:08 (UTC+8). LearnPrompt imports are attributed in `cases.json`.
+- Posts that clearly claim **Seedance 2.5**.
+- **Must include a public prompt** (post body or author reply).
+- Snapshot: 2026-10-13 21:10 (UTC+8). LearnPrompt imports attributed in `cases.json`.
 
 ## What is Seedance 2.5?
 
-Next-gen Seedance model from ByteDance Seed: ~4–30s single-pass A/V, strong multimodal references, built for one-take storytelling. Official: [seedance2_5](https://seed.bytedance.com/en/seedance2_5). Common API id: `dreamina-seedance-2-5-260628`.
+ByteDance Seed next-gen A/V model (~4–30s, multimodal refs). Official: [seedance2_5](https://seed.bytedance.com/en/seedance2_5). API id often `dreamina-seedance-2-5-260628`.
 
 ## Cinematic & Action
 
@@ -120,17 +119,8 @@ Next-gen Seedance model from ByteDance Seed: ~4–30s single-pass A/V, strong mu
 
 ## Data
 
-- Source: [`cases.json`](cases.json) (every case has `prompt`)
-- Gallery: [https://xianyu110.github.io/awesome-seedance-2.5/](https://xianyu110.github.io/awesome-seedance-2.5/)
-- Primary harvest: [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) (CC BY 4.0 curation) + original X posts
-- Updated: 2026-10-13 21:08 (UTC+8)
-- License: MIT for repo code; prompts/videos remain with original authors
+- [`cases.json`](cases.json) · Gallery [https://xianyu110.github.io/awesome-seedance-2.5/](https://xianyu110.github.io/awesome-seedance-2.5/)
+- Sources: LearnPrompt/awesome-seedance (CC BY 4.0) + X
+- Updated: 2026-10-13 21:10 (UTC+8)
 
-## Related
-
-- [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-- [EvoLinkAI/awesome-seedance-2.5-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
-- [flaqai/awesome_seedance_2_5](https://github.com/flaqai/awesome_seedance_2_5)
-- [xianyu110/awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)
-
-PRs welcome for Seedance 2.5 cases that have **both** a preview video and a public prompt.
+PRs welcome for Seedance 2.5 cases with **both** video and a public prompt.

@@ -70,7 +70,7 @@ function render(){const k=document.getElementById("q").value.trim().toLowerCase(
  const list=DATA.cases.filter(c=>(cur==="all"||c.category===cur)&&(!k||[c.title_zh,c.title_en,c.description_zh,c.author,c.prompt].join(" ").toLowerCase().includes(k)));
  if(cur==="all")list.sort((a,b)=>b.likes-a.likes);
  document.getElementById("grid").innerHTML=list.map(c=>`<div class="card c-${c.category}" id="${c.id}">
- ${c.cover?`<a class="cv" href="${c.post_url}" target="_blank" rel="noopener"><img loading="lazy" src="${c.cover}" alt="${esc(c.title_zh)}"><span class="tag">${EMO[c.category]||""} ${esc(cat[c.category])}</span>${c.duration_seconds?`<span class="dur">${Math.floor(c.duration_seconds/60)}:${String(c.duration_seconds%60).padStart(2,"0")}</span>`:""}</a>`:""}
+ ${`<a class="cv" href="${c.post_url}" target="_blank" rel="noopener">${c.cover?`<img loading="lazy" src="${c.cover}" alt="${esc(c.title_zh)}">`:`<div style="display:flex;align-items:center;justify-content:center;height:100%;padding:16px;text-align:center;color:#bbb;font-size:13px">${esc((c.title_zh||c.title_en||"").slice(0,48))}</div>`}<span class="tag">${EMO[c.category]||""} ${esc(cat[c.category])}</span>${c.duration_seconds?`<span class="dur">${Math.floor(c.duration_seconds/60)}:${String(c.duration_seconds%60).padStart(2,"0")}</span>`:""}</a>`}
  <div class="bd"><h3>${esc(c.title_zh)}</h3><div class="en">${esc(c.title_en)}</div>
  <div class="desc">${esc(c.description_zh||"")}</div>
  ${c.prompt?`<div class="pr"><button onclick="navigator.clipboard.writeText(this.nextElementSibling.textContent);this.textContent='已复制'">复制</button><span>${esc(c.prompt)}</span></div>`:""}

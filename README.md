@@ -2,9 +2,9 @@
 
 [English](README.en.md) | 简体中文
 
-这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **1380 个「视频 + 公开提示词」案例**（51 条整理自 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)，其余来自 X 原帖），分 7 类。每条都署名并链接到原帖，可一键复制提示词。
+这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **58 个「视频 + 公开提示词」案例**（51 条整理自 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)，其余来自 X 原帖），按分类浏览。每条都署名并链接到原帖，可一键复制提示词。
 
-**这是 Seedance 2.5 版本专项、且只收有公开提示词的画廊**。仅有视频、无提示词的帖子不收录。跨版本大合集请看 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)；结构对齐 [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)。
+**这是 Seedance 2.5 版本专项、且只收有公开提示词的画廊**。仅有视频、无提示词的帖子不收录。跨版本大合集请看 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)。
 
 **[🌐 打开在线画廊：按分类筛选、搜索、一键复制提示词 →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
@@ -17,27 +17,19 @@
   </tr>
 </table>
 
-[🎬 电影感 / 动作](#电影感--动作) · [🎒 生活流 / Vlog](#生活流--vlog) · [🧑‍🎨 角色一致 / 图生视频](#角色一致--图生视频) · [🐉 奇幻 / 世界观](#奇幻--世界观) · [📣 品牌 / 广告](#品牌--广告) · [🎵 音乐 / 长片](#音乐--长片) · [⚖️ 对比评测](#对比评测) · [🧩 其他（趣味 / 平台试水）](#其他趣味--平台试水) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [数据](#数据)
+[🎬 电影感 / 动作](#电影感--动作) · [🎒 生活流 / Vlog](#生活流--vlog) · [🧑‍🎨 角色一致 / 图生视频](#角色一致--图生视频) · [🐉 奇幻 / 世界观](#奇幻--世界观) · [📣 品牌 / 广告](#品牌--广告) · [🎵 音乐 / 长片](#音乐--长片) · [⚖️ 对比评测](#对比评测) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [数据](#数据)
 
 ## 收录标准
 
 - 只收**创作者本人发布的原帖**；搬运、纯转发不收。
-- 作者在帖子里**明确写了是 Seedance 2.5**（含 Seedance2.5 / #Seedance2.5）。**不收录**仅写 Seedance / 2.0 / Mini / Fast 而未标明 2.5 的作品。
+- 作者在帖子里**明确写了是 Seedance 2.5**（含 Seedance2.5 / #Seedance2.5）。
 - **必须有公开提示词**：原帖正文或作者本人的回复；找不到出处的不收录。
-- 同一作者的相似作品只留代表作；按点赞/热度排序。互动数为整理时的快照（2026-10-13 21:07 (UTC+8)）。
-- 从 LearnPrompt/awesome-seedance 导入的条目会在 `cases.json` 的 `source_attribution` 字段署名。
+- 从 LearnPrompt/awesome-seedance 导入的条目在 `cases.json` 的 `source_attribution` 字段署名。
+- 互动数为整理时快照（2026-10-13 21:10 (UTC+8)）。
 
 ## Seedance 2.5 是什么
 
-ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型，强调：
-
-- 单次生成约 **4–30 秒**音视频，并支持续写扩展
-- 更强的多模态参照（多图 / 多视频 / 多音频）
-- 面向「一口气讲完一段故事」的创作，而非只出 5 秒碎片
-
-官方页面：[seed.bytedance.com/en/seedance2_5](https://seed.bytedance.com/en/seedance2_5) · 发布博文：[Introducing Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-
-常见体验入口：即梦 / Dreamina、Jimeng、Doubao，以及 Higgsfield、Flova、OpenArt、CapCut AI Lab 等第三方。API 常见模型 id：`dreamina-seedance-2-5-260628`。
+ByteDance Seed 团队下一代音视频联合生成模型：单次约 **4–30 秒**、多模态参照、一口气讲完一段故事。官方：[seedance2_5](https://seed.bytedance.com/en/seedance2_5)。常见 API id：`dreamina-seedance-2-5-260628`。
 
 ## 电影感 / 动作
 
@@ -140,30 +132,19 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 |---|---|---|---|---|---|
 | <a href="https://x.com/Just_sharon7/status/2088878042034868640"><img src="https://media.goodcase.ai/cases/8ca3ebd21bfe.jpg" width="160" alt="Seedance 2.5 同人对打：Sharon 大战 Sharon"></a> | [Seedance 2.5 同人对打：Sharon 大战 Sharon](https://x.com/Just_sharon7/status/2088878042034868640) | Seedance 2.5 | [@Just_sharon7](https://x.com/Just_sharon7) | 0:10 | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2088878042034868640) |
 
-## 玩法技巧
-
-1. **先锁角色再动画**：用 GPT Image / Nano Banana 等出角色卡与场景静帧，再把图喂给 Seedance 2.5。
-2. **导演式提示词**：写清时长、画幅、光线阶段、镜头运动与 Negative。
-3. **生活流靠约束画质**：手持晃动、对焦犹豫、关掉美颜与 BGM，会更像真 DV。
-4. **预演别硬喂**：复杂动作可先解析成文字，再只参照角色/背景。
-5. **先比再选型**：同提示词同参照做成本与画质对比。
-
 ## 数据
 
-- 源数据：[`cases.json`](cases.json)（全部带 `prompt` 字段）
-- 在线画廊：[https://xianyu110.github.io/awesome-seedance-2.5/](https://xianyu110.github.io/awesome-seedance-2.5/)（GitHub Pages）
+- 源数据：[`cases.json`](cases.json)（全部带 `prompt`）
+- 画廊：[https://xianyu110.github.io/awesome-seedance-2.5/](https://xianyu110.github.io/awesome-seedance-2.5/)
 - 主要来源：[LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)（CC BY 4.0 策展）、X 原帖
-- 更新时间：2026-10-13 21:08 (UTC+8)
-- 许可：仓库代码 MIT；作品与提示词版权归原作者
+- 更新：2026-10-13 21:10 (UTC+8)
+- 许可：代码 MIT；作品与提示词版权归原作者
 
 ## 相关仓库
 
-- [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) — 泛 Seedance 合集（本库从中导入了带提示词的 2.5 案例）
-- [xianyu110/awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1) — Gemini 图像 2.1
-- [xianyu110/awesome-fable-5.5](https://github.com/xianyu110/awesome-fable-5.5) — Claude Fable 5.5
-- [EvoLinkAI/awesome-seedance-2.5-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide) — 官方素材指南
-- [flaqai/awesome_seedance_2_5](https://github.com/flaqai/awesome_seedance_2_5) — 提示词配方库
+- [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+- [EvoLinkAI/awesome-seedance-2.5-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
+- [flaqai/awesome_seedance_2_5](https://github.com/flaqai/awesome_seedance_2_5)
+- [xianyu110/awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)
 
-## 社区
-
-欢迎 PR 补充「明确标注 Seedance 2.5 + 可预览视频 + **公开提示词**」的案例；作者如需修改或移除，请提 Issue。
+欢迎 PR 补充「Seedance 2.5 + 可预览视频 + **公开提示词**」案例。
