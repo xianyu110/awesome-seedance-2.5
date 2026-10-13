@@ -1,0 +1,65 @@
+{
+  "skills": [
+    {
+      "name": "seedance-25-prompt-director",
+      "path": "skills/seedance-25-prompt-director",
+      "description": "Core Seedance 2.5 prompting OS for Claude Code / Codex / Cursor: director-style shot timelines, character cards, DV/handheld camera grammar, audio layers, aspect/duration presets, and anti-slop rules. Use for Seedance 2.5 prompts, 即梦 Seedance2.5, Dreamina video, director prompt, 分镜提示词, I2V recipes."
+    },
+    {
+      "name": "seedance-25-cinematic-action",
+      "path": "skills/seedance-25-cinematic-action",
+      "description": "Seedance 2.5 cinematic & action skill: trailer-style shot timelines for fights, chases, underwater horror, streetball, war-zone 1vLegion, mech teasers. Use for 电影感, action short, trailer beat sheet, Dreamina Seedance 2.5 action."
+    },
+    {
+      "name": "seedance-25-dv-day-in-life",
+      "path": "skills/seedance-25-dv-day-in-life",
+      "description": "Seedance 2.5 DV / home-video day-in-the-life skill with the public fuji_ai_ Seoul walk prompt: early-2000s handheld shake, AF hunting, ambience-only audio, character-ref lock. Use for DV camera, 家用DV, lifestyle vlog, day in the life, Seedance 2.5 prompt."
+    },
+    {
+      "name": "seedance-25-boxing-handheld",
+      "path": "skills/seedance-25-boxing-handheld",
+      "description": "Seedance 2.5 friend-shot handheld fitness boxing skill with akiyoshisan public shortened Japanese prompt: missed punches, bag pushback, towel/bottle beats, agreed light spar. Use for boxing gym vlog, 健身拳击, handheld sports, Dreamina 16:9 24fps."
+    },
+    {
+      "name": "seedance-25-mech-backpack",
+      "path": "skills/seedance-25-mech-backpack",
+      "description": "Seedance 2.5 one-take mech transform skill with johnAGI168 public Chinese director prompt: flying hypercar folds into wearable backpack, 14s 9:16, character-card lock, continuous fold states. Use for 变形, mech backpack, I2V transform, vertical sci-fi."
+    },
+    {
+      "name": "seedance-25-cat-knight-duel",
+      "path": "skills/seedance-25-cat-knight-duel",
+      "description": "Seedance 2.5 dual character-card fantasy duel skill with johnAGI168 public Chinese director prompt: tiny cat knight vs dragon, 30s 16:9, scale contrast, sword timeline, score layers. Use for 奇幻, cat knight, dragon fight, dual character cards."
+    },
+    {
+      "name": "seedance-25-ocean-kingdom-pov",
+      "path": "skills/seedance-25-ocean-kingdom-pov",
+      "description": "Seedance 2.5 POV world-explore skill with Sharjeelai_786 public English prompt: 30s hidden ocean kingdom on a pearl-scaled sea dragon, ruins, whales, photoreal underwater motion. Use for POV, underwater, ocean kingdom, Seedance 2.5 short prompt."
+    },
+    {
+      "name": "seedance-25-character-lock-i2v",
+      "path": "skills/seedance-25-character-lock-i2v",
+      "description": "Seedance 2.5 character-lock I2V workflow: freeze hero/extra/boss stills with an image model first (e.g. GPT Image), then drive physics in Seedance 2.5 — pattern from TomaAIbijo Comiket→GTA chase plus transform cases. Use for 图生视频, character consistency, I2V, cosplay to chase."
+    },
+    {
+      "name": "seedance-25-fight-previz-pipeline",
+      "path": "skills/seedance-25-fight-previz-pipeline",
+      "description": "Seedance 2.5 fight pipeline from ni_naai: do not feed hard previz motion blindly — parse previz to text (e.g. Astra), reference only character + background stills, generate 480p then upscale to 1080p. Use for 格斗, previz, fight scene, Higgsfield Seedance 2.5."
+    },
+    {
+      "name": "seedance-25-brand-commercial",
+      "path": "skills/seedance-25-brand-commercial",
+      "description": "Seedance 2.5 cinematic brand-film skill: 60–120s security/escort style narratives with convoy night driving, hotel arrival, controlled lighting — pattern from PUNPUNinuhime case. Use for 品牌片, commercial, night escort, luxury security film."
+    },
+    {
+      "name": "seedance-25-music-mv-longform",
+      "path": "skills/seedance-25-music-mv-longform",
+      "description": "Seedance 2.5 long-form MV skill inspired by kraqvoid Flova workflow: agent-driven shot lists, character bibles, rough cut, full-song length (~4 min) assembled from Seedance 2.5 clips. Use for MV, music video, Flova, long-form Seedance."
+    },
+    {
+      "name": "seedance-25-gallery-index",
+      "path": "skills/seedance-25-gallery-index",
+      "description": "Index skill for all 18 curated Seedance 2.5 gallery cases: maps each demo to a recipe skill, links the live awesome-seedance-2.5 gallery, and covers compare / picnic-vlog / meme cases as reference demos. Use for Seedance 2.5 examples, case study, gallery, awesome-seedance-2.5."
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,33 @@
+{
+  "name": "awesome-seedance-2.5",
+  "owner": {
+    "name": "xianyu110",
+    "url": "https://github.com/xianyu110"
+  },
+  "metadata": {
+    "description": "Awesome Seedance 2.5 — prompt-only gallery + 12 installable Agent Skills for ByteDance Seedance 2.5 (director, cinematic, DV, I2V, fantasy, brand, MV)",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "seedance-2.5-skills",
+      "description": "Installable Seedance 2.5 skills for Claude Code, Codex, and Cursor. Public prompts from the awesome-seedance-2.5 gallery plus reusable director workflows.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/seedance-25-prompt-director",
+        "./skills/seedance-25-cinematic-action",
+        "./skills/seedance-25-dv-day-in-life",
+        "./skills/seedance-25-boxing-handheld",
+        "./skills/seedance-25-mech-backpack",
+        "./skills/seedance-25-cat-knight-duel",
+        "./skills/seedance-25-ocean-kingdom-pov",
+        "./skills/seedance-25-character-lock-i2v",
+        "./skills/seedance-25-fight-previz-pipeline",
+        "./skills/seedance-25-brand-commercial",
+        "./skills/seedance-25-music-mv-longform",
+        "./skills/seedance-25-gallery-index"
+      ]
+    }
+  ]
+}

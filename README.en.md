@@ -4,7 +4,11 @@ English | [简体中文](README.md)
 
 Curated **Seedance 2.5** clips with **public prompts**. **467** cases (LearnPrompt 142 · BeatAPI 318 · other originals 7) across 8 categories. Every row credits the author and links the source post.
 
-**Seedance 2.5 only, public prompts only.** Cross-version mega-list: [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance). Layout mirrors [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1).
+**Seedance 2.5 only, public prompts only — plus installable Agent Skills in the same repo.** Cross-version mega-list: [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance). Layout mirrors [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1).
+
+```bash
+npx skills add xianyu110/awesome-seedance-2.5
+```
 
 **[🌐 Open the live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
@@ -17,7 +21,48 @@ Curated **Seedance 2.5** clips with **public prompts**. **467** cases (LearnProm
   </tr>
 </table>
 
-[🎬 Cinematic & Action](#cinematic) · [🎒 Lifestyle & Vlog](#lifestyle) · [🧑‍🎨 Character & I2V](#character) · [🐉 Fantasy & Worlds](#fantasy) · [📣 Brand & Commercial](#commercial) · [🎵 Music & Long-form](#music) · [⚖️ Comparisons](#compare) · [🧩 Other (fun, platform tests)](#other) · [Inclusion rules](#inclusion-rules) · [What is Seedance 2.5](#what-is-seedance-25) · [Source repos](#source-repos) · [Data](#data)
+[⚡ Install skills](#install-agent-skills) · [🎬 Cinematic & Action](#cinematic) · [🎒 Lifestyle & Vlog](#lifestyle) · [🧑‍🎨 Character & I2V](#character) · [🐉 Fantasy & Worlds](#fantasy) · [📣 Brand & Commercial](#commercial) · [🎵 Music & Long-form](#music) · [⚖️ Comparisons](#compare) · [🧩 Other (fun, platform tests)](#other) · [Inclusion rules](#inclusion-rules) · [What is Seedance 2.5](#what-is-seedance-25) · [Source repos](#source-repos) · [Data](#data)
+
+
+## Install Agent Skills
+
+This repo also ships **12 Seedance 2.5 Agent Skills** (director prompts, cinematic action, DV lifestyle, character-lock I2V, fantasy duel, brand film, MV, …) for Claude Code, Codex, and Cursor.
+
+### One-line install
+
+```bash
+npx skills add xianyu110/awesome-seedance-2.5
+```
+
+Or copy manually:
+
+```bash
+git clone https://github.com/xianyu110/awesome-seedance-2.5.git
+cd awesome-seedance-2.5
+mkdir -p ~/.claude/skills && cp -r skills/* ~/.claude/skills/
+# Codex: ~/.codex/skills · Cursor: .cursor/skills
+```
+
+Claude Code marketplace: `/plugin marketplace add xianyu110/awesome-seedance-2.5`
+
+### Skills
+
+| Skill | Role | Public prompt |
+|---|---|---|
+| [`seedance-25-prompt-director`](skills/seedance-25-prompt-director) | Director OS / camera / audio layers | — |
+| [`seedance-25-cinematic-action`](skills/seedance-25-cinematic-action) | Trailer-style action beats | — |
+| [`seedance-25-dv-day-in-life`](skills/seedance-25-dv-day-in-life) | DV day-in-the-life (fuji_ai_) | ✅ JA |
+| [`seedance-25-boxing-handheld`](skills/seedance-25-boxing-handheld) | Handheld boxing gym | ✅ JA |
+| [`seedance-25-mech-backpack`](skills/seedance-25-mech-backpack) | Hypercar → backpack one-take | ✅ ZH |
+| [`seedance-25-cat-knight-duel`](skills/seedance-25-cat-knight-duel) | Cat knight vs dragon | ✅ ZH |
+| [`seedance-25-ocean-kingdom-pov`](skills/seedance-25-ocean-kingdom-pov) | POV ocean kingdom | ✅ EN |
+| [`seedance-25-character-lock-i2v`](skills/seedance-25-character-lock-i2v) | Still lock → Seedance physics | — |
+| [`seedance-25-fight-previz-pipeline`](skills/seedance-25-fight-previz-pipeline) | Previz → text → refs | — |
+| [`seedance-25-brand-commercial`](skills/seedance-25-brand-commercial) | Brand narrative film | — |
+| [`seedance-25-music-mv-longform`](skills/seedance-25-music-mv-longform) | Multi-clip MV desk | — |
+| [`seedance-25-gallery-index`](skills/seedance-25-gallery-index) | Recipe map → full gallery | — |
+
+> The former standalone `seedance-2.5-skills` repo is merged here — use the install command above.
 
 ## Inclusion rules
 
@@ -200,9 +245,11 @@ _None yet_
 
 ## Data
 
-- [`cases.json`](./cases.json) (467 rows)
+- [`cases.json`](./cases.json) (467 rows, **all with public prompts**)
+- Agent Skills: [`skills/`](./skills/) (12) · [`skills/catalog.json`](./skills/catalog.json) · [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json)
 - Gallery: <https://xianyu110.github.io/awesome-seedance-2.5/>
-- Updated 2026-10-13 21:11 (UTC+8)
+- Install: `npx skills add xianyu110/awesome-seedance-2.5`
+- Updated 2026-10-13 21:12 (UTC+8)
 
 ## License
 

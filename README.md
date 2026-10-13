@@ -4,7 +4,11 @@
 
 这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **467 个「视频 + 公开提示词」案例**（LearnPrompt 142 · BeatAPI 318 · 其他原帖 7），分 8 类。每条都署名并链接到原帖，可一键复制提示词。
 
-**这是 Seedance 2.5 版本专项、且只收有公开提示词的画廊**。仅有视频、无提示词的帖子不收录。跨版本大合集请看 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)；结构对齐 [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)。
+**这是 Seedance 2.5 版本专项：公开提示词画廊 + 可安装 Agent Skills（同一仓库）**。仅有视频、无提示词的帖子不收录。跨版本大合集请看 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)；结构对齐 [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)。
+
+```bash
+npx skills add xianyu110/awesome-seedance-2.5
+```
 
 **[🌐 打开在线画廊：按分类筛选、搜索、一键复制提示词 →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
@@ -17,7 +21,57 @@
   </tr>
 </table>
 
-[🎬 电影感 / 动作](#cinematic) · [🎒 生活流 / Vlog](#lifestyle) · [🧑‍🎨 角色一致 / 图生视频](#character) · [🐉 奇幻 / 世界观](#fantasy) · [📣 品牌 / 广告](#commercial) · [🎵 音乐 / 长片](#music) · [⚖️ 对比评测](#compare) · [🧩 其他（趣味 / 平台试水）](#other) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [来源仓库](#来源仓库) · [数据](#数据)
+[⚡ 安装 Skills](#安装-agent-skills) · [🎬 电影感 / 动作](#cinematic) · [🎒 生活流 / Vlog](#lifestyle) · [🧑‍🎨 角色一致 / 图生视频](#character) · [🐉 奇幻 / 世界观](#fantasy) · [📣 品牌 / 广告](#commercial) · [🎵 音乐 / 长片](#music) · [⚖️ 对比评测](#compare) · [🧩 其他（趣味 / 平台试水）](#other) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [来源仓库](#来源仓库) · [数据](#数据)
+
+
+## 安装 Agent Skills
+
+本仓库同时提供 **12 个 Seedance 2.5 Agent Skills**（导演提示词 / 电影感动作 / DV 生活流 / 角色锁定 I2V / 奇幻对战 / 品牌片 / MV 等），可装进 Claude Code、Codex、Cursor。
+
+### 一行安装
+
+```bash
+npx skills add xianyu110/awesome-seedance-2.5
+```
+
+或手动：
+
+```bash
+git clone https://github.com/xianyu110/awesome-seedance-2.5.git
+cd awesome-seedance-2.5
+
+# Claude Code
+mkdir -p ~/.claude/skills && cp -r skills/* ~/.claude/skills/
+
+# Codex
+mkdir -p ~/.codex/skills && cp -r skills/* ~/.codex/skills/
+
+# Cursor（项目内）
+mkdir -p .cursor/skills && cp -r skills/* .cursor/skills/
+```
+
+Claude Code 插件市场：`/plugin marketplace add xianyu110/awesome-seedance-2.5`
+
+### Skills 一览
+
+| Skill | 做什么 | 含公开 Prompt |
+|---|---|---|
+| [`seedance-25-prompt-director`](skills/seedance-25-prompt-director) | 导演级提示词骨架 / 运镜 / 音频分层 | — |
+| [`seedance-25-cinematic-action`](skills/seedance-25-cinematic-action) | 电影感动作（开门见山、潜水、街球、1v军团等） | — |
+| [`seedance-25-dv-day-in-life`](skills/seedance-25-dv-day-in-life) | 家用 DV 生活流（fuji_ai_ 首尔一日） | ✅ JA |
+| [`seedance-25-boxing-handheld`](skills/seedance-25-boxing-handheld) | 朋友手持拳击初体验 | ✅ JA |
+| [`seedance-25-mech-backpack`](skills/seedance-25-mech-backpack) | 飞行超跑连续折叠成背包 | ✅ ZH |
+| [`seedance-25-cat-knight-duel`](skills/seedance-25-cat-knight-duel) | 小猫骑士 vs 巨龙双角色卡 | ✅ ZH |
+| [`seedance-25-ocean-kingdom-pov`](skills/seedance-25-ocean-kingdom-pov) | 30s POV 海底王国 | ✅ EN |
+| [`seedance-25-character-lock-i2v`](skills/seedance-25-character-lock-i2v) | 先定妆静帧，再交给 Seedance 做物理 | — |
+| [`seedance-25-fight-previz-pipeline`](skills/seedance-25-fight-previz-pipeline) | 预演→文本化→只参照角色/背景 | — |
+| [`seedance-25-brand-commercial`](skills/seedance-25-brand-commercial) | 夜景护送等品牌叙事 | — |
+| [`seedance-25-music-mv-longform`](skills/seedance-25-music-mv-longform) | 分镜卡片拼 MV 长片 | — |
+| [`seedance-25-gallery-index`](skills/seedance-25-gallery-index) | 配方案例路由 → 完整画廊 | — |
+
+对 agent 说例如：`用 seedance-25-prompt-director 写一条 20 秒、9:16、无对白的电影感追击提示词`。
+
+> 原先独立的 `seedance-2.5-skills` 仓库已合并进本仓库；请改用上方安装命令。
 
 ## 收录标准
 
@@ -208,9 +262,11 @@ _暂无_
 
 ## 数据
 
-- 机器可读：[`cases.json`](./cases.json)（467 条）
+- 机器可读：[`cases.json`](./cases.json)（467 条，**全部含公开提示词**）
+- Agent Skills：[`skills/`](./skills/)（12 个）· 目录 [`skills/catalog.json`](./skills/catalog.json) · 插件 [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json)
 - 在线画廊：<https://xianyu110.github.io/awesome-seedance-2.5/>
-- 更新于 2026-10-13 21:11 (UTC+8)
+- 安装：`npx skills add xianyu110/awesome-seedance-2.5`
+- 更新于 2026-10-13 21:12 (UTC+8)
 
 ## License
 
