@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Awesome Seedance 2.5 · 字节 Seedance 2.5 音视频案例画廊</title>
+<meta name="description" content="精选 X 上 Seedance 2.5（ByteDance 音视频联合生成模型）实测作品：电影感、生活流、角色一致、奇幻、品牌片与对比评测，附作者署名、原帖与公开提示词。">
+<style>
+:root{--bg:#0a0f14;--card:#121a22;--line:#243040;--txt:#e8eef4;--sub:#8fa0b3;--acc:#3dd6c6}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1200px;margin:0 auto;padding:28px 18px 60px}
+header h1{font-size:30px;margin:0 0 6px}header h1 span{color:var(--acc)}
+header p{color:var(--sub);margin:4px 0}
+.box{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:14px 16px;margin:16px 0}
+.box b{color:var(--acc)}code{background:#1a2633;padding:2px 6px;border-radius:5px;font-size:13px;word-break:break-word}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:20px 0 14px}
+.bar button{background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-size:14px}
+.bar button.on{background:var(--acc);border-color:var(--acc);color:#04201c}
+.bar input{flex:1;min-width:180px;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:999px;padding:7px 14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.cv{position:relative;display:block;aspect-ratio:16/9;background:#000;overflow:hidden}.cv img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}.card:hover .cv img{transform:scale(1.04)}.cv .tag{position:absolute;top:10px;right:10px;font-size:12px;background:rgba(0,0,0,.65);padding:3px 10px;border-radius:999px;color:#fff}.cv .dur{position:absolute;bottom:8px;right:10px;font-size:12px;background:rgba(0,0,0,.7);padding:1px 7px;border-radius:5px;color:#fff}
+.card.hl{outline:3px solid var(--acc);box-shadow:0 0 24px rgba(61,214,198,.45)}
+.bd{padding:14px 16px;flex:1;display:flex;flex-direction:column;gap:6px}
+.bd h3{margin:0;font-size:17px;line-height:1.4}.en{color:var(--sub);font-size:13px}
+.desc{font-size:14px}.meta{color:var(--sub);font-size:13px}
+.pr{background:#182430;border:1px dashed var(--line);border-radius:8px;padding:8px 52px 8px 10px;font-size:12.5px;font-family:ui-monospace,Menlo,monospace;position:relative;word-break:break-word;max-height:160px;overflow:auto}
+.pr button{position:absolute;top:6px;right:6px;font-size:11px;background:var(--acc);color:#04201c;border:0;border-radius:6px;padding:2px 8px;cursor:pointer;font-weight:600}
+.links{margin-top:auto;padding-top:6px;display:flex;gap:14px;font-size:14px}
+footer{color:var(--sub);font-size:13px;margin-top:36px;border-top:1px solid var(--line);padding-top:18px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>Awesome <span>Seedance 2.5</span></h1>
+<p>ByteDance Seedance 2.5 音视频联合生成模型 · 社区作品与公开提示词画廊</p>
+<p id="stat"></p>
+</header>
+<div class="box"><b>这是什么？</b><br>
+收集 X 上创作者明确标注用 <b>Seedance 2.5</b>（非 2.0 / Mini / Fast）生成的视频案例。可按分类筛选、搜索，并一键复制公开提示词。<br>
+<span class="meta">⚠️ 模型归属以作者自述为准；封面来自 X 公开媒体。本仓库是 <b>2.5 版本专项</b>，有别于泛列表 <a href="https://github.com/LearnPrompt/awesome-seedance" target="_blank" rel="noopener">LearnPrompt/awesome-seedance</a>。官方介绍：<a href="https://seed.bytedance.com/en/seedance2_5" target="_blank" rel="noopener">seed.bytedance.com/seedance2_5</a></span></div>
+<div class="box"><b>Seedance 2.5 要点</b><br>
+单次生成最长约 <b>30 秒</b>音视频；支持多图/视频/音频参照与扩展续写；常见入口含即梦 / Dreamina、Jimeng、Doubao、第三方聚合（Higgsfield / Flova / OpenArt 等）。API 模型 id 常见为 <code>dreamina-seedance-2-5-260628</code>。</div>
+<div class="bar" id="bar"><input id="q" placeholder="搜索标题 / 作者 / 描述 / 提示词…"></div>
+<div class="grid" id="grid"></div>
+<footer>
+内容整理：MaynorAI · 中文标题与简介为原创撰写，视频与提示词版权归原作者。页面代码 MIT。与字节跳动无关。<br>
+GitHub：<a href="https://github.com/xianyu110/awesome-seedance-2.5">xianyu110/awesome-seedance-2.5</a> · 欢迎 PR 补充案例 / 作者可提 Issue 修改或移除。
+</footer>
+</div>
+<script>
+const EMO={cinematic:"🎬",lifestyle:"🎒",character:"🧑‍🎨",fantasy:"🐉",commercial:"📣",music:"🎵",compare:"⚖️",other:"🧩"};
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt=n=>n>=10000?(n/10000).toFixed(1)+"万":n;
+let DATA,cur=new URLSearchParams(location.search).get("cat")||"all";
+fetch("cases.json").then(r=>r.json()).then(d=>{DATA=d;
+ document.getElementById("stat").textContent=`共 ${d.cases.length} 个案例 · ${d.categories.length} 个分类 · 更新于 ${d.updated_at}`;
+ const bar=document.getElementById("bar"),q=document.getElementById("q");
+ [{id:"all",zh:"全部",emoji:""},...d.categories].forEach(c=>{const b=document.createElement("button");
+  const n=c.id==="all"?d.cases.length:d.cases.filter(x=>x.category===c.id).length;
+  b.textContent=`${c.emoji||""} ${c.zh} (${n})`.trim();b.dataset.id=c.id;if(c.id===cur)b.className="on";
+  b.onclick=()=>{cur=c.id;bar.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render()};bar.insertBefore(b,q)});
+ q.oninput=render;render();focusHash()});
+window.addEventListener("hashchange",focusHash);
+function focusHash(){const id=decodeURIComponent(location.hash.slice(1));if(!id||!DATA)return;let el=document.getElementById(id);if(!el&&DATA.cases.some(c=>c.id===id)){cur="all";document.getElementById("q").value="";document.querySelectorAll("#bar button").forEach(x=>x.classList.toggle("on",x.dataset.id==="all"));render();el=document.getElementById(id)}if(el){document.querySelectorAll(".card.hl").forEach(x=>x.classList.remove("hl"));el.classList.add("hl");setTimeout(()=>el.scrollIntoView({behavior:"smooth",block:"center"}),100)}}
+function render(){const k=document.getElementById("q").value.trim().toLowerCase();
+ const cat=Object.fromEntries(DATA.categories.map(c=>[c.id,c.zh]));
+ const list=DATA.cases.filter(c=>(cur==="all"||c.category===cur)&&(!k||[c.title_zh,c.title_en,c.description_zh,c.author,c.prompt].join(" ").toLowerCase().includes(k)));
+ if(cur==="all")list.sort((a,b)=>b.likes-a.likes);
+ document.getElementById("grid").innerHTML=list.map(c=>`<div class="card c-${c.category}" id="${c.id}">
+ ${c.cover?`<a class="cv" href="${c.post_url}" target="_blank" rel="noopener"><img loading="lazy" src="${c.cover}" alt="${esc(c.title_zh)}"><span class="tag">${EMO[c.category]||""} ${esc(cat[c.category])}</span>${c.duration_seconds?`<span class="dur">${Math.floor(c.duration_seconds/60)}:${String(c.duration_seconds%60).padStart(2,"0")}</span>`:""}</a>`:""}
+ <div class="bd"><h3>${esc(c.title_zh)}</h3><div class="en">${esc(c.title_en)}</div>
+ <div class="desc">${esc(c.description_zh||"")}</div>
+ ${c.prompt?`<div class="pr"><button onclick="navigator.clipboard.writeText(this.nextElementSibling.textContent);this.textContent='已复制'">复制</button><span>${esc(c.prompt)}</span></div>`:""}
+ <div class="meta">${esc(c.model)} · <a href="${c.author_url}" target="_blank" rel="noopener">@${esc(c.author)}</a> · ${c.posted_at_utc8} · ❤️ ${fmt(c.likes)} · 👀 ${fmt(c.views)}</div>
+ <div class="links"><a href="${c.post_url}" target="_blank" rel="noopener">查看原帖 ↗</a></div></div></div>`).join("")}
+</script>
+</body></html>
