@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-Curated **Seedance 2.5** videos with **public prompts** (≥80 chars) and preview covers. **1024 cases**.
+Curated **Seedance 2.5** videos with **public prompts** (≥80 chars) and preview covers. **1041 cases**.
 
 **[🌐 Open the live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
@@ -16,7 +16,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 
 ## Categories
 
-## 🎬 Cinematic & Action (535)
+## 🎬 Cinematic & Action (544)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -30,7 +30,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/AIwithSynthia/status/2106955772395659431"><img src="https://media.goodcase.ai/cases/17336ecf1069.jpg" width="160" alt="University Lab Infection Turns Students into Zombies"></a> | [University Lab Infection Turns Students into Zombies](https://x.com/AIwithSynthia/status/2106955772395659431) | [@AIwithSynthia](https://x.com/AIwithSynthia) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106955772395659431) |
 
 <sub>+527 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic).</sub>
-## 🎒 Lifestyle & Vlog (93)
+## 🎒 Lifestyle & Vlog (94)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -44,7 +44,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/Strength04_X/status/2091737661061095648"><img src="https://media.goodcase.ai/cases/68ae69f99fe4.jpg" width="160" alt="Korean Girl Outdoor Pool Vlog"></a> | [Korean Girl Outdoor Pool Vlog](https://x.com/Strength04_X/status/2091737661061095648) | [@Strength04_X](https://x.com/Strength04_X) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2091737661061095648) |
 
 <sub>+85 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle).</sub>
-## 🧑‍🎨 Character & I2V (79)
+## 🧑‍🎨 Character & I2V (80)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -58,7 +58,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/saniaspeaks_/status/2091103923440328783"><img src="https://media.goodcase.ai/media/poster/case-365f2a3615b1.jpg" width="160" alt="Chance Encounter at a Korean City Bus Stop"></a> | [Chance Encounter at a Korean City Bus Stop](https://x.com/saniaspeaks_/status/2091103923440328783) | [@saniaspeaks_](https://x.com/saniaspeaks_) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2091103923440328783) |
 
 <sub>+71 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character).</sub>
-## 🐉 Fantasy & Worlds (64)
+## 🐉 Fantasy & Worlds (66)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -72,7 +72,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/Chaemate_/status/2105958420088328486"><img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="160" alt="Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle"></a> | [Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle](https://x.com/Chaemate_/status/2105958420088328486) | [@Chaemate_](https://x.com/Chaemate_) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2105958420088328486) |
 
 <sub>+56 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy).</sub>
-## 📣 Brand & Commercial (140)
+## 📣 Brand & Commercial (143)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -114,7 +114,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/yesand_ai/status/2084129980351656404"><img src="https://pbs.twimg.com/amplify_video_thumb/2084126097067900928/img/rFm5vdw48WE-ZVqI.jpg" width="160" alt="Seedance 2.5 Vs Minimax H3 Prompt Skateboarding City"></a> | [Seedance 2.5 Vs Minimax H3 Prompt Skateboarding City](https://x.com/yesand_ai/status/2084129980351656404) | [@yesand_ai](https://x.com/yesand_ai) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2084129980351656404) |
 
 <sub>+22 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=compare).</sub>
-## 🧩 Other (fun, platform tests) (10)
+## 🧩 Other (fun, platform tests) (11)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
