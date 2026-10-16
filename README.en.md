@@ -141,7 +141,7 @@ Community-related entry points for trying Seedance 2.5 (unofficial; use at your 
 
 ## Data
 
-- [`cases.json`](cases.json) — 1066 cases, updated 2026-10-16 11:59 (UTC+8))
+- [`cases.json`](cases.json) — 1066 cases, updated 2026-10-16 11:59 (UTC+8)
 
 ## License
 
