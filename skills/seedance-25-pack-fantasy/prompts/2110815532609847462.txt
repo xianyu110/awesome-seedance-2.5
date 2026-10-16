@@ -1,0 +1,7 @@
+One continuous take, no cuts. Start exactly on the reference image. A baby dragon about 15 cm long sleeps curled up on a red velvet cushion on a stone windowsill at night, a candle burning beside it, rain running down the window.
+
+The camera slowly and steadily pushes in to a close-up of the dragon's face over 8 seconds. The dragon breathes slowly. With each breath a faint orange ember glow pulses in its nostrils and a thin wisp of smoke drifts up.
+
+The candle flame flickers and raindrops keep sliding down the glass. Near the end the dragon slowly opens one golden eye and looks at the camera. Photoreal, cinematic fantasy lighting. No text, no logos, no people, no other animals.
+
+Seedance 2.5, image to video (start frame), 8 s, 9:16, 720p, audio on; about 15 cm in the prompt so it stays small.

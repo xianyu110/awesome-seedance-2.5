@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=music
   category: music
-  case_count: 73
+  case_count: 74
 ---
 
 # Seedance 2.5 · Music & Long-form pack
 
-**73** public-prompt gallery cases in `music`.
+**74** public-prompt gallery cases in `music`.
 
 ## Use
 

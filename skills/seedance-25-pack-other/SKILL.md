@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=other
   category: other
-  case_count: 10
+  case_count: 12
 ---
 
 # Seedance 2.5 · Other (fun, platform tests) pack
 
-**10** public-prompt gallery cases in `other`.
+**12** public-prompt gallery cases in `other`.
 
 ## Use
 

@@ -1,0 +1,61 @@
+Create a 15-second, 16:9 cinematic battle between the two characters in the attached reference images, set in a destructible Manhattan street. Photorealistic materials, explosive superhuman martial arts, aerial combat, smoke teleportation, and visceral action-film cinematography.
+
+REFERENCE IMAGES AND CHARACTER CONSISTENCY
+Use the reference sheets strictly for character appearance. Render exactly one fighter from each reference as a fully realized character inside the scene. Do not display the design sheets, their panels, labels, or typography.
+Character A — Mechanical Fox-Mask Ninja, reference image 1:
+Preserve the white-and-red fox mask, glowing red eyes, black mechanical armor, white armor accents, intricate brass details, thick cable-like hair, respirator components, ragged red-and-black fabric, and katana. Fast, precise, aggressive movement.
+
+Character B — Decayed Antlered Warrior, reference image 2:
+Preserve the ivory skeletal body, skull face, enormous branching antlers, intertwined dead branches, weathered off-white robes, ornaments, and sheathed swords. Visibly taller than the ninja. Heavy, devastating physical power. Maintain the same anatomy, costume, and silhouette throughout the battle.
+LOCATION AND VISUAL LANGUAGE
+A Manhattan intersection at blue hour: towering glass facades, yellow taxis, streetlights, steam rising from subway grates, and long views between skyscrapers. Keep the action within this recognizable intersection and the airspace immediately above it.
+
+Destruction must follow the attacks: punches launch bodies into architecture, impacts fracture asphalt, and shockwaves shatter nearby windows. Heavy debris falls with convincing weight.
+SMOKE TELEPORTATION RULE
+Only the fox-mask ninja uses smoke teleportation. His entire body dissolves into dense black smoke threaded with red embers, then reforms as a solid, intact body at another position.
+
+Smoke clouds linger where he disappears. He can return to these previously established locations. Establish three recognizable smoke positions during the early exchanges, then reuse them during the final counterattack. These are successive appearances of ONE ninja, never clones.
+TIMELINE — EXACTLY 15 SECONDS
+
+0.0–2.0 seconds — IMMEDIATE IMPACT
+Begin on the antlered warrior’s fist already striking the ninja’s armored torso. The impact launches the ninja backward over a yellow taxi and into a building facade. Glass and masonry burst outward.
+
+Start with a low, wide-angle street-level shot, then accelerate alongside the airborne ninja. Show the impact clearly before the debris expands. No introduction or preparatory posing.
+2.0–5.0 seconds — SMOKE TELEPORT COMBAT
+The warrior charges toward the damaged facade. Just before his follow-up punch connects, the ninja dissolves into black smoke.
+
+The ninja reforms behind the warrior and lands a powerful rising knee, lifting him off the street. He immediately dissolves again and reappears overhead, driving a heel downward. Establish lingering ember-filled smoke clouds at the departure positions.
+
+Use an over-the-shoulder view, a motivated whip-pan to the rear attack, then a wider upward view between the skyscrapers. Both fighters remain identifiable through each transition.
+
+5.0–8.0 seconds — BRUTAL REVERSAL
+The warrior catches the descending ninja by the ankle and violently swings him down into the intersection. Asphalt fractures outward and a nearby taxi slides sideways from the shockwave.
+Follow the downward motion from above, then cut to a low angle for the ground impact. The ninja disappears inside black smoke and rising dust. The warrior stands over the crater, apparently victorious. Let the impact sound decay into a brief hush.
+
+8.0–12.0 seconds — THE SMOKE TRAP
+Red embers ignite inside the smoke clouds left earlier.
+
+In one readable medium-wide view, the ninja reappears from the rear cloud and kicks the warrior forward, vanishes, reforms from the side cloud and punches his ribs, then vanishes and reforms directly in front of him.
+Three rapid, distinct positions. Every attack connects before the next teleport. The warrior staggers, unable to recover between hits. The ninja finishes firmly planted in front of him, hand gripping the katana hilt.
+
+Accelerate the rhythm through these attacks. Use short whip-pans and decisive impact cuts while maintaining clear geography.
+
+12.0–15.0 seconds — DECISIVE FINISH
+Briefly slow the instant before the ninja draws his sword. Return to full speed for one clean, devastating slash across the warrior’s torso, leaving a thin red trail.
+
+A short still beat. A crack races through the warrior’s skull and antlers. His skeletal body and branches fracture into dry ivory fragments and collapse completely. The warrior is definitively defeated.
+The ninja remains standing and begins to sheath his sword as damaged masonry falls behind him. End on a sharp close-up of the fox mask’s glowing red eye.
+
+GLITCH AND NOISE
+Synchronize effects with physical events:
+During disappearance, the ninja’s silhouette briefly tears sideways before dissolving into smoke.
+During reappearance, a red chromatic afterimage resolves into the solid body.
+At major impacts, add a very brief frame tear, digital noise burst, and sharp audio distortion.
+
+Keep faces, striking limbs, contact points, and the final collapse readable. Preserve the cinematic image between these short disruptions.
+CAMERA AND SOUND
+Combine ground-level wide angles, shoulder-level tracking, an overhead descent, controlled whip-pans, and selective speed ramps. Each camera movement follows an attack or reveals a teleport destination.
+
+Sound: heavy metallic impacts, rushing air, pressure-wave bass, breaking glass, asphalt cracking, mechanical movement, a sharp sword draw, and brittle bone fracture. A tiny silence immediately before the final slash, followed by a powerful impact and debris falling.
+
+No dialogue, captions, subtitles, logos, watermarks, split screens, character duplication, extra limbs, costume changes, blood, or flesh. No regeneration after the final defeat.

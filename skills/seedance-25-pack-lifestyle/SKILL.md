@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle
   category: lifestyle
-  case_count: 93
+  case_count: 96
 ---
 
 # Seedance 2.5 · Lifestyle & Vlog pack
 
-**93** public-prompt gallery cases in `lifestyle`.
+**96** public-prompt gallery cases in `lifestyle`.
 
 ## Use
 

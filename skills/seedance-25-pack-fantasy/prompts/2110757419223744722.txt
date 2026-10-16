@@ -1,0 +1,882 @@
+SCENE CONTEXT
+In Glimmer Reef, Tuck — a small stylized hermit crab who has outgrown his old shell — searches the spilled cargo of a sunken rowboat for a new home.
+He tries three human objects as shells.
+Every try fails in a different way.
+TOO BIG.
+TOO HEAVY.
+SEE-THROUGH.
+Defeated, he loses hope.
+Then a glint leads him to a beautiful pearl shell, hidden at the back of the reef behind the sunken boat.
+It is EXACTLY his size.
+He backs into its opening TAIL-FIRST, WEARS it on his back,
+walks happily past the empty glass jar that once embarrassed him,
+and celebrates: "Perfect fit!"
+34 seconds total.
+16:9 widescreen.
+Bright animated-feature underwater daylight.
+Fast comedy timing.
+Large readable expressions.
+Strong physical weight.
+Tender emotional final beat.
+==================================================
+ACTIVE REFERENCES
+==================================================
+[
+@tuck
+]
+CHARACTER SHEET — LOADED SECOND.
+STRICTLY MATCH THE TUCK CHARACTER SHEET.
+Tuck is a young adult stylized 3D animated hermit crab, approximately 8 cm tall.
+CHARACTER COLOR LOCK:
+• bright coral-red / tomato-red glossy body plating
+• deep red claws
+• one slightly bigger right claw
+• soft cream / peach belly
+• soft cream / peach curly tail
+• orange-red walking legs with dark maroon tips
+• two big round eyes on tall eye-stalks
+• large white sclera
+• bright teal irises
+• dark pupils
+• strong animated-film eye catchlights
+• dark maroon brow bumps
+• flexible expressive mouth
+PERSONALITY:
+Dramatic.
+Picky.
+Hopeful.
+Fashion-conscious.
+Lovable.
+Easily embarrassed.
+100% MATCH THE REFERENCE.
+NO character redesign.
+NO morphing.
+NO proportion drift.
+NO color drift.
+NO realistic crab.
+NO scary crab.
+NO extra limbs.
+[
+@reef
+]
+LOCATION SHEET — LOADED FIRST.
+STRICTLY MATCH THE GLIMMER REEF ART DIRECTION.
+Glimmer Reef is a shallow, sunlit lagoon reef in a polished Disney-inspired animated-feature environment style.
+GEOGRAPHY:
+• bright white sandy reef floor
+• one small wooden rowboat sunk on its side
+• THE JUNK PILE — spilled cargo beside the boat
+• THE SAND SLOPE — gentle sandy hill ending at a plump orange sea cucumber
+• THE HIDDEN SPOT — behind the sunken boat, kelp curtains, one thin sun shaft
+• pink, orange and purple coral heads
+• swaying green kelp and one kelp arch
+• anemone clusters
+• small schools of colorful fish
+• deep blue drop-off in the distance
+• shimmering water surface above
+• sun rays streaming down
+• dancing caustic light on sand and objects
+ENVIRONMENT STYLE:
+Whimsical premium animated-feature environment.
+Rounded appealing coral shapes.
+Saturated turquoise water.
+Warm white sand.
+Soft atmospheric blue depth.
+Glowing sun shafts.
+Beautiful painterly color separation.
+Do NOT make the location look like live-action photography.
+Do NOT turn it into documentary realism.
+STYLE REFERENCE ONLY.
+Extend the environment naturally.
+==================================================
+LOCATION MAP
+==================================================
+FOREGROUND:
+White rippled sand.
+Tiny pebbles.
+Small broken shell fragments.
+Sea grass tufts.
+Small coral pieces.
+MIDGROUND:
+THE JUNK PILE beside the sunken rowboat:
+1. PORCELAIN TEACUP — lying on its side
+2. OLD TIN CAN — lying on its side, open end facing out
+3. CLEAR GLASS JAR — LYING ON ITS SIDE, open mouth facing out, flat on the sand
+THE SAND SLOPE to one side, with the sea cucumber at the bottom.
+BACKGROUND:
+THE HIDDEN SPOT behind the sunken boat.
+Kelp curtains.
+One thin sun shaft.
+Coral walls.
+Fish schools.
+Deep blue distance.
+WATER HAZE:
+Approximately 15% near Tuck,
+increasing toward approximately 40% in the far distance.
+CAMERA WORLD RULE:
+Miniature macro-scale world.
+Camera usually operates at crab-eye height, a few centimeters above the sand.
+The audience must always feel how TINY Tuck is next to the objects.
+Use the full 16:9 width to show the reef around him.
+==================================================
+SCALE LOCK — CRITICAL
+==================================================
+Tuck:
+approximately 8 cm tall.
+OLD CRACKED SHELL:
+clearly too small — barely covers his tail.
+PORCELAIN TEACUP:
+approximately twice Tuck's size.
+TIN CAN:
+approximately the same size as Tuck, visibly heavy.
+GLASS JAR:
+snug, perfect size for Tuck.
+PEARL SHELL:
+approximately the size of Tuck's BODY.
+Slightly larger than the old cracked shell.
+Much smaller than the teacup.
+NEVER bigger than Tuck.
+NEVER a giant backdrop behind him.
+When worn, it covers only his tail and back half.
+His head, eye-stalks, claws and front walking legs stay OUTSIDE the opening.
+SEA CUCUMBER:
+approximately three times Tuck's length.
+PEARL SHELL SIZE NEVER CHANGES between shots.
+==================================================
+SHELL OPTIONS DESIGN — CRITICAL
+==================================================
+Every shell option is a HOLLOW object with a visible open end.
+Tuck always backs in TAIL-FIRST, like a real hermit crab.
+OLD CRACKED SHELL:
+• small tan spiral shell
+• big visible crack
+• too small
+PORCELAIN TEACUP:
+• white porcelain
+• blue floral pattern
+• thin gold rim
+• chipped edge
+TIN CAN:
+• old metal can
+• slightly rusty
+• faded red and green label
+• open at one end
+GLASS JAR:
+• small clear glass jar
+• LYING ON ITS SIDE on the sand the whole time
+• open mouth facing sideways toward Tuck, no lid
+• fully transparent
+• Tuck's body clearly visible through the glass
+• NEVER standing upright
+PEARL SHELL — THE HERO:
+• elegant spiral turban shell
+• Tuck-sized — the size of his body
+• smooth glossy mother-of-pearl surface
+• iridescent rainbow sheen: soft pink, lavender, aqua, gold
+• bright specular highlights
+• tiny sparkle glints
+• resting loosely on top of the sand
+• its big round OPENING with a smooth flared lip faces the CAMERA
+• the dark hollow inside the opening is clearly visible
+• the spiral side is solid — nothing enters the spiral side
+The most beautiful object in the whole video.
+MATCH THE PEARL SHELL COLORS ON THE LOCATION SHEET.
+==================================================
+SHELL ENTRY / EXIT MECHANICS — CRITICAL
+==================================================
+NO TELEPORTING.
+NO position jumps.
+NO cuts during an entry or an exit.
+Every time Tuck goes INTO or OUT OF an object, it is shown as ONE continuous on-screen action.
+ENTERING (every shell):
+1. Tuck walks up to the opening.
+2. He turns around so his tail faces the opening.
+3. He backs in step by step, TAIL-FIRST.
+4. His curly tail disappears into the opening first.
+5. Then his back half slides in.
+6. His legs grip the rim as he settles.
+7. His head, claws and eye-stalks stay at the opening, looking out.
+EXITING (every shell):
+1. Tuck pulls himself forward with his front legs and claws.
+2. His body slides out through the SAME opening.
+3. His curly tail slips out last.
+4. The object stays exactly where it was.
+PEARL SHELL ENTRY:
+Camera faces the shell's opening.
+Tuck stands IN FRONT of the opening, FACING THE CAMERA.
+He walks BACKWARD into it — tail first — keeping his face toward the camera.
+The lip of the opening frames his body as he sinks in.
+Head and claws NEVER go into the opening.
+WEARING (pearl shell only):
+The shell sits ON HIS BACK.
+His tail is coiled inside the spiral.
+When he stands up, the shell LIFTS OFF THE SAND with him.
+When he walks, the shell RIDES ON HIS BACK and moves with every step.
+He is NOT sitting in front of the shell.
+He is NOT standing next to the shell.
+He is INSIDE it, carrying it.
+==================================================
+PROP CONTINUITY
+==================================================
+Objects NEVER reset.
+Objects NEVER disappear.
+Every object stays where Tuck left it.
+AFTER TRY 1:
+Teacup remains tipped over on the sand.
+AFTER TRY 2:
+Tin can remains at the bottom of the sand slope, against the sea cucumber.
+AFTER TRY 3:
+Glass jar remains lying on its side on the sand beside Tuck.
+TUCK CONTINUITY:
+Tuck gets progressively messier.
+START:
+clean, glossy, no sand.
+AFTER TRY 1:
+light dusting of sand on his back.
+AFTER TRY 2:
+more sand, one small strand of green seaweed draped over one eye-stalk.
+AFTER TRY 3:
+seaweed strand still there until the final reveal.
+FINAL:
+Tuck shakes the seaweed off as he scuttles to the pearl shell.
+==================================================
+FIRST FRAME / BLOCKING
+==================================================
+NON-EMPTY OPENING FRAME.
+16:9 WIDESCREEN FRAME.
+Tuck is ALREADY SQUEEZING OUT of his tiny cracked old shell.
+Place Tuck in the lower-left third.
+Low macro angle at sand level.
+Legs pushing.
+Eye-stalks straining.
+Cheeks puffed.
+The old shell is clearly far too small.
+The junk pile and sunken rowboat visible in the right two-thirds of frame.
+Teacup, tin can and glass jar readable in the pile — all lying on their sides.
+Sun rays streaming down.
+Caustics dancing on the sand.
+RULE OF THIRDS:
+Tuck = left.
+Junk pile = right.
+Nothing frozen.
+==================================================
+FORMAT MODE
+==================================================
+ASPECT RATIO:
+16:9 LANDSCAPE.
+TIMED MULTISHOT.
+EXACTLY FIVE HARD CUTS.
+CUT 1:
+0:06.0
+CUT 2:
+0:12.0
+CUT 3:
+0:18.0
+CUT 4:
+0:23.0
+CUT 5:
+0:25.5
+NO OTHER CUTS.
+==================================================
+OPTICS
+==================================================
+SHOT 1 — OLD SHELL + TEACUP
+0:00–0:06.0
+Start:
+70° FOV.
+Ease toward:
+50° FOV during the teacup spin.
+No random focal changes.
+SHOT 2 — TIN CAN
+0:06.0–0:12.0
+63° FOV for the tin can lift.
+Hold during the roll.
+Push toward:
+47° FOV at the sea cucumber impact.
+SHOT 3 — GLASS JAR
+0:12.0–0:18.0
+50° FOV, side-on to the jar so the open mouth AND Tuck are both visible.
+Push toward:
+35° FOV for the embarrassment.
+SHOT 4 — HOPELESS
+0:18.0–0:23.0
+47° FOV for the exit from the jar.
+35° FOV for the hopeless beat.
+29° FOV for the glint and turn.
+SHOT 5 — THE PEARL SHELL
+0:23.0–0:25.5
+47° FOV, facing the shell's opening.
+Hold for the whole entry. No zoom.
+SHOT 6 — PERFECT FIT
+0:25.5–0:33.5
+40° FOV tracking the walk.
+35° FOV for the jar tap.
+29° FOV for the final pose.
+Rectilinear cinematic macro-prime lens character.
+180-degree shutter motion blur.
+Shallow depth of field for close-ups.
+Deeper focus for the reveal.
+==================================================
+CAMERA
+==================================================
+SHOT 1:
+Camera moves immediately from frame one.
+Low macro dolly at sand level beside Tuck.
+Match Tuck's scuttling speed.
+As the teacup tips:
+camera circles around the spinning cup,
+keeps Tuck's dizzy face readable inside it.
+SHOT 2:
+Camera low beside Tuck while he strains under the tin can.
+When the can tips:
+camera tracks alongside the can as it rolls down the sand slope.
+Sand trail visible.
+End low and close on the sea cucumber impact.
+SHOT 3:
+Camera low and SIDE-ON to the jar lying on its side.
+Hold so the full backing-in action is visible in one continuous move.
+Slow push-in for the proud pose.
+Small reveal of the fish school staring.
+Push close for the embarrassment.
+SHOT 4:
+Camera stays side-on as Tuck crawls OUT of the jar mouth.
+Then slowly drifts and settles low in front of Tuck.
+Quiet.
+Almost still.
+Gentle slow push-in as the glint crosses his face.
+Hold as he slowly turns to look behind him.
+SHOT 5:
+Low at sand level, FACING the pearl shell's opening.
+Behind the sunken boat, under one thin sun shaft.
+Shell centered, opening toward camera.
+STEADY. No orbit. Very slow gentle push only.
+The whole entry is visible from start to finish.
+SHOT 6:
+Low tracking dolly beside Tuck, 3/4 front angle.
+Shell on his back AND his face both visible.
+Passes the empty glass jar.
+Settles into a low front hero framing, Tuck centered.
+CAMERA NEVER LOCKED OFF — except the steady hold during the pearl shell entry.
+==================================================
+ACTION
+==================================================
+SHOT 1 — OLD SHELL + TEACUP
+0.0s–1.2s
+Tuck squeezes out of his tiny cracked old shell.
+Legs pushing.
+Cheeks puffed.
+POP.
+The old shell tumbles away across the sand.
+1.2s–2.0s
+Tuck quickly covers his soft belly with both claws.
+Embarrassed glance left and right.
+2.0s–3.2s
+He scuttles fast across the sand toward the junk pile.
+Eyes locked on the PORCELAIN TEACUP.
+3.2s–4.0s
+TRY 1.
+He turns around and backs into the teacup TAIL-FIRST.
+Proud little nod.
+4.0s–6.0s
+TOO BIG.
+The teacup wobbles.
+Tips over.
+Spins on the sand like a fairground ride with Tuck inside.
+Sand puffs outward.
+The spin slows.
+Tuck's eyes become dizzy spirals.
+Eye-stalks wobble.
+6.0s
+HARD CUT.
+SHOT 2 — TIN CAN
+6.0s–7.2s
+Tuck staggers out of the tipped teacup, still dizzy.
+Shakes off sand.
+Light sand dusting remains on his back.
+Eyes narrow with determination.
+He locks onto the TIN CAN.
+7.2s–8.4s
+TRY 2.
+He turns around and backs into the tin can TAIL-FIRST.
+It fits.
+He tries to lift it.
+Legs shake.
+Claws strain.
+Face scrunched — the STRAINING pose.
+8.4s–9.0s
+The can lifts only a few centimeters.
+Wobbles.
+Tips sideways onto the sand slope.
+Tuck's eyes widen.
+9.0s–10.8s
+The can rolls DOWN THE SLOPE with Tuck inside.
+His legs flail out the open end.
+Sand sprays.
+10.8s–12.0s
+BONK.
+The can hits the sea cucumber.
+The sea cucumber squishes and bounces it back.
+The can stops.
+Tuck's eye-stalks poke out, dazed.
+One strand of green seaweed now drapes over one eye-stalk.
+12.0s
+HARD CUT.
+SHOT 3 — GLASS JAR
+12.0s–12.8s
+Tuck walks up to the GLASS JAR lying on its side.
+Its open mouth faces him.
+Sandy.
+Seaweed still on his eye-stalk.
+His eyes widen with fresh hope.
+12.8s–14.4s
+TRY 3.
+ONE CONTINUOUS ACTION, NO JUMP:
+He turns around.
+Backs up to the jar mouth.
+His curly tail slides in first.
+Then his body slides in, step by step.
+Legs grip the glass rim.
+He settles in.
+His head and claws rest at the open mouth, looking out.
+PERFECT SNUG FIT.
+14.4s–15.4s
+Sunlight hits the glass.
+Caustics sparkle across it.
+Tuck puffs his chest and raises his claws proudly.
+Big smile.
+15.4s–16.4s
+A school of tiny colorful fish stops right in front of him.
+They STARE.
+Tuck looks DOWN.
+He sees his whole soft body fully visible through the glass.
+16.4s–18.0s
+He blushes.
+Covers his eyes with both claws — the HIDING pose.
+He stays inside the jar.
+The fish swim away.
+18.0s
+HARD CUT.
+SHOT 4 — HOPELESS
+18.0s–19.6s
+Tuck is still inside the jar, blushing.
+ONE CONTINUOUS ACTION, NO JUMP:
+He pulls himself forward with his claws and front legs.
+His body slides out through the jar mouth.
+His curly tail slips out last.
+The jar stays lying on its side.
+19.6s–21.2s
+HOPELESS.
+Tuck slumps onto the sand beside the jar.
+No shell.
+Eye-stalks droop low.
+Eyes half-lidded and teary.
+Small frown.
+One small sigh.
+A single bubble rises.
+21.2s–22.0s
+A soft rainbow GLINT flickers across the sand.
+It crosses his face.
+He barely notices.
+22.0s–23.0s
+The glint flickers again.
+He slowly turns to look behind him.
+His eyes widen slightly.
+23.0s
+HARD CUT.
+SHOT 5 — THE PEARL SHELL
+23.0s–23.6s
+REVEAL.
+Behind the sunken rowboat,
+one thin sun shaft breaks through the kelp curtains
+and lands on the PEARL SHELL,
+a small Tuck-sized spiral shell resting on white sand,
+its big opening facing the camera,
+shimmering pink, lavender, aqua and gold.
+23.6s–24.2s
+Tuck scuttles into frame.
+Stops RIGHT IN FRONT of the opening.
+FACING THE CAMERA.
+His back end points at the opening.
+Big wide hopeful eyes.
+24.2s–25.5s
+ONE CONTINUOUS ACTION, NO JUMP:
+He walks BACKWARD into the opening.
+His curly cream tail goes in FIRST.
+Then his back half slides in.
+He keeps facing the camera.
+The lip of the opening frames his body as he sinks in.
+25.5s
+HARD CUT.
+SHOT 6 — PERFECT FIT
+25.5s–28.0s
+Tuck walks happily across the white sand WEARING the pearl shell.
+Big wide eyes.
+Big open smile.
+Claws swinging.
+The shell bobs on his back with every step.
+A few small colorful fish swim alongside him.
+28.0s–29.8s
+He passes the EMPTY glass jar lying on its side — the one that embarrassed him.
+He gives the glass a cheeky little TAP with his claw.
+"Not you this time."
+Keeps walking.
+29.8s–31.0s
+He stops.
+Turns to face the camera.
+The shell catches the sunlight.
+31.0s–33.5s
+He raises both claws high — the POSING pose from the character sheet.
+Big wide eyes.
+Big open happy smile.
+He says:
+"Perfect fit!"
+Quick cheerful wink.
+An iridescent rainbow shimmer ripples across the shell.
+Tiny bubbles rise around him.
+END.
+==================================================
+PERFORMANCE
+==================================================
+Premium animated-feature character acting.
+Tuck's FACE and EYE-STALKS carry the comedy.
+Large eyes.
+Expressive brows.
+Eye-stalks that droop, wobble, stretch and shoot up.
+Every failed try follows:
+HOPE
+→ confidence
+→ realization
+→ failure reaction.
+Important:
+Each failure must be instantly readable:
+TEACUP = too big.
+TIN CAN = too heavy.
+GLASS JAR = see-through.
+HOPELESS BEAT:
+Underplay it.
+Quiet.
+Sincere.
+No cartoon crying.
+Only:
+drooping eye-stalks,
+teary eyes,
+one sigh.
+This sincerity makes the reveal land.
+FINAL BEAT:
+Pure, warm joy.
+Big wide eyes — exactly like the "Happy" and "Posing" pictures on the character sheet.
+He must clearly be WEARING the shell when he says "Perfect fit!"
+The jar tap is small and cheeky, not mean.
+No over-the-top celebration.
+==================================================
+SURFACE DETAIL
+==================================================
+Glossy coral-red shell plating with soft specular highlights.
+Soft cream belly with gentle segments.
+Wet natural eyes with bright catchlights.
+Eye-stalks with subtle flex.
+PEARL SHELL:
+smooth mother-of-pearl,
+shifting iridescent color as light and angle change,
+crisp sparkle glints.
+GLASS JAR:
+clean refraction,
+slight distortion of Tuck's body behind the glass,
+bright edge highlights.
+PORCELAIN:
+smooth glaze,
+soft reflections.
+TIN CAN:
+dull metal,
+light rust,
+faded label.
+==================================================
+PHYSICS
+==================================================
+Stylized world.
+BELIEVABLE UNDERWATER PHYSICS.
+Mass and inertia carry through:
+scuttling,
+backing in,
+crawling out,
+spinning,
+lifting,
+rolling,
+impacts.
+Tuck has real weight.
+Legs compress under load.
+Body dips under the tin can.
+Heavy objects move slower.
+Tuck can only enter and exit objects through their OPEN END.
+Tuck NEVER passes through glass, metal or porcelain.
+UNDERWATER:
+Slight water drag on fast movements.
+Sand puffs rise and slowly settle.
+Small bubbles rise naturally.
+Kelp sways gently.
+Floating particles drift through sun shafts.
+OBJECT PHYSICS:
+Teacup rocks, tips, spins and slowly stops.
+Tin can rolls with weight and bounces off the soft sea cucumber.
+Sea cucumber squishes softly and recovers.
+Glass jar stays lying on its side, still and solid.
+Pearl shell rocks gently as he backs in,
+then lifts and moves WITH Tuck once worn.
+CONTACT SHADOWS:
+Always correct.
+==================================================
+LIGHTING
+==================================================
+Bright animated-feature midday sun through water.
+Sun direction:
+from above and slightly behind Tuck.
+Strong rim light along:
+eye-stalks,
+claws,
+shell plating,
+every shell option.
+Warm light bounce from white sand.
+WB:
+approximately 6000K.
+Turquoise water provides blue ambient fill.
+Dancing caustic patterns on sand, objects and Tuck.
+Visible sun shafts with floating particles.
+SHOT 4 — HOPELESS:
+slightly cooler, softer light.
+SHOT 5 — REVEAL:
+one thin warm golden sun shaft on the pearl shell.
+SHOT 6 — PERFECT FIT:
+bright, warm, sunny.
+FINAL FRAME:
+warm light on Tuck's face,
+iridescent reflections from the pearl shell on his back onto his body,
+clear catchlights in both eyes.
+==================================================
+COLOR GRADE
+==================================================
+STRICTLY FOLLOW REFERENCE COLORS.
+TUCK:
+coral red,
+deep red claws,
+cream peach belly and tail,
+orange-red legs,
+teal eyes.
+ENVIRONMENT:
+turquoise water,
+deep ocean blue distance,
+warm white sand,
+coral pink,
+sea-green kelp,
+sunlight gold.
+PEARL SHELL:
+soft pink,
+lavender,
+aqua,
+gold sheen.
+No crushed blacks.
+No muddy colors.
+No murky green water.
+No grey documentary look.
+Tuck must remain clearly readable against the colorful reef.
+==================================================
+AUDIO
+==================================================
+Sound-design-first comedy.
+Soft underwater ambience throughout.
+0.0s–1.2s:
+squeezing creak.
+Cartoon POP.
+Old shell clatters across sand.
+2.0s–3.2s:
+fast tiny leg patters on sand.
+3.2s–4.0s:
+porcelain clink.
+4.0s–6.0s:
+porcelain rattle.
+Spinning whirr.
+Little dizzy wobble sound.
+6.0s–7.2s:
+wobbly footsteps.
+Sand shake.
+7.2s–8.4s:
+metal scrape.
+Tiny straining grunt.
+9.0s–10.8s:
+hollow metal rolling rumble.
+Sand hiss.
+10.8s–12.0s:
+soft squishy BONK.
+12.8s–14.4s:
+tiny leg taps on glass.
+Soft glass slide.
+Glass tink as he settles.
+14.4s–15.4s:
+small rising musical victory sting.
+15.4s–16.4s:
+music stops.
+Tiny awkward silence.
+16.4s:
+small embarrassed squeak.
+18.0s–19.6s:
+glass squeak as he crawls out.
+19.6s–21.2s:
+quiet.
+One small sigh.
+One bubble.
+21.2s–23.0s:
+soft magical shimmer chime.
+Repeats once, slightly brighter.
+23.0s–23.6s:
+warm orchestral swell begins.
+Strings rise.
+23.6s–24.2s:
+fast leg patters.
+24.2s–25.5s:
+soft shell scrape.
+Gentle sliding.
+25.5s–28.0s:
+playful happy music.
+Little tapping footsteps.
+28.0s–29.8s:
+tiny glass "tink" from the claw tap.
+29.8s–31.0s:
+soft shimmer.
+31.0s–33.5s:
+TUCK SAYS:
+"Perfect fit!"
+Happy and bright.
+Tiny wink "ting".
+Music resolves on a bright final note.
+NO SUBTITLES.
+==================================================
+STYLE
+==================================================
+Premium feature-quality 3D animated family-comedy film.
+Disney-inspired visual language.
+Whimsical stylized proportions.
+Appealing shape design.
+Large expressive eyes.
+Clear readable animation acting.
+Stylized but physically believable surfaces.
+Soft subsurface scattering through:
+Tuck's belly,
+eye-stalks,
+kelp,
+coral edges.
+Soft global illumination.
+High-quality animated-feature shadows.
+Controlled clean specular highlights.
+Beautiful underwater atmospheric perspective.
+Lush painterly reef.
+Bright warm family-comedy color language.
+Sincere emotional close-ups.
+NO LIVE ACTION.
+NO REALISTIC NATURE DOCUMENTARY STYLE.
+NO FLAT 2D ANIMATION.
+NO TEXT.
+NO CAPTIONS.
+NO SUBTITLES.
+NO UI.
+NO LOGOS.
+NO WATERMARK.
+==================================================
+OUTPUT SETTINGS
+==================================================
+ASPECT RATIO:
+16:9 LANDSCAPE.
+1920×1080.
+1080p.
+33.5 seconds.
+30fps.
+Real-time motion.
+NO SPEED RAMPS.
+SIX SHOTS.
+EXACTLY FIVE HARD CUTS:
+0:06.0
+0:12.0
+0:18.0
+0:23.0
+0:25.5
+==================================================
+FINAL POSITIVE LOCKS
+==================================================
+FORMAT LOCK:
+16:9 landscape frame in every shot.
+NO vertical framing.
+NO square framing.
+NO letterboxing.
+NO black bars.
+[
+@tuck
+] is the ONLY character.
+Fish are background only.
+Tuck is present in every shot.
+Tuck always matches the character sheet:
+coral-red body,
+deep red claws,
+cream peach belly and curly tail,
+orange-red legs with maroon tips,
+TWO separate tall eye-stalks, one round eye on top of each,
+large white eyes,
+teal irises.
+NO eyes merged into a single head.
+NO CHARACTER REDESIGN.
+NO EXTRA LIMBS.
+MOVEMENT LOCK:
+NO TELEPORTING.
+NO position jumps.
+Every entry and exit is one continuous visible action through the object's open end.
+SHELL LOCK:
+Tuck backs into every shell TAIL-FIRST.
+Every shell option is hollow with a visible open end.
+TEACUP = too big.
+TIN CAN = too heavy.
+GLASS JAR = see-through.
+PEARL SHELL = perfect fit.
+Do NOT let Tuck wear two shells at once.
+Do NOT let any object morph into another.
+JAR LOCK:
+The glass jar lies ON ITS SIDE the whole time.
+NO upright jar.
+PEARL SHELL LOCK:
+Pearl shell is Tuck-sized — the size of his body.
+NEVER bigger than Tuck.
+Tuck WEARS it on his back.
+The shell moves WITH him when he walks.
+NO Tuck sitting in front of the shell.
+NO giant shell.
+NO shell size change between shots.
+Tuck enters ONLY through the big opening, walking backward, facing the camera.
+NOTHING goes into the spiral side.
+ONLY ONE Tuck. NO reflection of Tuck. NO crab inside the jar.
+CONTINUITY LOCK:
+Objects stay where Tuck left them.
+Sand and seaweed on Tuck build up until the final reveal.
+NEVER RESET.
+LOCATION LOCK:
+Same Glimmer Reef throughout.
+Same sunken rowboat.
+Same junk pile.
+Same sand slope.
+Same sea cucumber.
+Same hidden spot behind the boat.
+Same daylight.
+REVEAL LOCK:
+The pearl shell is ONLY revealed after the hopeless beat.
+It rests on the sand behind the sunken boat, under one thin sun shaft.
+FINAL FRAME LOCK:
+Tuck WEARS the pearl shell on his back.
+Shell sized to his body.
+Head, eye-stalks, claws and front legs outside the opening.
+Centered, facing camera.
+Both claws raised.
+Big wide eyes.
+Big happy smile.
+Shell shimmering.
+END.
+CAMERA CUTS ONLY:
+0:06.0
+0:12.0
+0:18.0
+0:23.0
+0:25.5

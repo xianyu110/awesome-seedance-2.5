@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy
   category: fantasy
-  case_count: 64
+  case_count: 75
 ---
 
 # Seedance 2.5 · Fantasy & Worlds pack
 
-**64** public-prompt gallery cases in `fantasy`.
+**75** public-prompt gallery cases in `fantasy`.
 
 ## Use
 

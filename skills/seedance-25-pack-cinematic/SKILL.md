@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic
   category: cinematic
-  case_count: 535
+  case_count: 553
 ---
 
 # Seedance 2.5 · Cinematic & Action pack
 
-**535** public-prompt gallery cases in `cinematic`.
+**553** public-prompt gallery cases in `cinematic`.
 
 ## Use
 

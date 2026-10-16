@@ -1,0 +1,5 @@
+use the reference storyboard to make a full 30 second animation movie. work through all fifteen panels in order, giving each panel roughly two seconds of screen time so the story plays out at a steady, unhurried pace across the whole thirty seconds.
+
+do not rush the beats and do not finish early. do not render any text, numbers, letters, timecodes, panel numbers, captions, watermarks or on-screen graphics of any kind. clean frames only.
+
+audio: diegetic sound only, natural ambience, environmental foley, and subject-driven sound.

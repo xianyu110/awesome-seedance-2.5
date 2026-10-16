@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=character
   category: character
-  case_count: 79
+  case_count: 81
 ---
 
 # Seedance 2.5 · Character & I2V pack
 
-**79** public-prompt gallery cases in `character`.
+**81** public-prompt gallery cases in `character`.
 
 ## Use
 

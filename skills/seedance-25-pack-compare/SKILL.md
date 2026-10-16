@@ -8,12 +8,12 @@ metadata:
   model: Seedance 2.5
   gallery: https://xianyu110.github.io/awesome-seedance-2.5/?cat=compare
   category: compare
-  case_count: 30
+  case_count: 32
 ---
 
 # Seedance 2.5 · Comparisons pack
 
-**30** public-prompt gallery cases in `compare`.
+**32** public-prompt gallery cases in `compare`.
 
 ## Use
 
