@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-Curated **Seedance 2.5** videos with **public prompts** (≥80 chars) and preview covers. **1066 cases**.
+Curated **Seedance 2.5** videos with **public prompts** (≥80 chars) and preview covers. **1087 cases**.
 
 **[🌐 Open the live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
@@ -141,7 +141,7 @@ Community-related entry points for trying Seedance 2.5 (unofficial; use at your 
 
 ## Data
 
-- [`cases.json`](cases.json) — 1066 cases, updated 2026-10-16 11:59 (UTC+8)
+- [`cases.json`](cases.json) — 1087 cases, updated 2026-10-16 11:59 (UTC+8)
 
 ## License
 
