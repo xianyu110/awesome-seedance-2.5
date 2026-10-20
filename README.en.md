@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-Curated **Seedance 2.5** videos with **public prompts** (≥80 chars) and preview covers. **1087 cases**.
+Curated **Seedance 2.5** videos with **public prompts** (≥80 chars) and preview covers. **1112 cases**.
 
 **[🌐 Open the live gallery →](https://xianyu110.github.io/awesome-seedance-2.5/)**
 
@@ -16,7 +16,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 
 ## Categories
 
-## 🎬 Cinematic & Action (544)
+## 🎬 Cinematic & Action (577)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -29,8 +29,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/RishuaVR/status/2089204108175741157"><img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="160" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl"></a> | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://x.com/RishuaVR/status/2089204108175741157) | [@RishuaVR](https://x.com/RishuaVR) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2089204108175741157) |
 | <a href="https://x.com/AIwithSynthia/status/2106955772395659431"><img src="https://media.goodcase.ai/cases/17336ecf1069.jpg" width="160" alt="University Lab Infection Turns Students into Zombies"></a> | [University Lab Infection Turns Students into Zombies](https://x.com/AIwithSynthia/status/2106955772395659431) | [@AIwithSynthia](https://x.com/AIwithSynthia) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106955772395659431) |
 
-<sub>+527 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic).</sub>
-## 🎒 Lifestyle & Vlog (94)
+<sub>+569 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic).</sub>
+## 🎒 Lifestyle & Vlog (103)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -43,8 +43,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/techhalla/status/2083585132917579834"><img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="160" alt="Roller Coaster Wig Mishap: A Second Take on Frozen Time"></a> | [Roller Coaster Wig Mishap: A Second Take on Frozen Time](https://x.com/techhalla/status/2083585132917579834) | [@techhalla](https://x.com/techhalla) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2083585132917579834) |
 | <a href="https://x.com/Strength04_X/status/2091737661061095648"><img src="https://media.goodcase.ai/cases/68ae69f99fe4.jpg" width="160" alt="Korean Girl Outdoor Pool Vlog"></a> | [Korean Girl Outdoor Pool Vlog](https://x.com/Strength04_X/status/2091737661061095648) | [@Strength04_X](https://x.com/Strength04_X) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2091737661061095648) |
 
-<sub>+85 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle).</sub>
-## 🧑‍🎨 Character & I2V (80)
+<sub>+95 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle).</sub>
+## 🧑‍🎨 Character & I2V (82)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -57,8 +57,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/CaliraVal/status/2107697202646987178"><img src="https://media.goodcase.ai/cases/c5e375e7e334.jpg" width="160" alt="Woman in a White Fur Jacket Walking Through Snowy Mountains"></a> | [Woman in a White Fur Jacket Walking Through Snowy Mountains](https://x.com/CaliraVal/status/2107697202646987178) | [@CaliraVal](https://x.com/CaliraVal) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107697202646987178) |
 | <a href="https://x.com/saniaspeaks_/status/2091103923440328783"><img src="https://media.goodcase.ai/media/poster/case-365f2a3615b1.jpg" width="160" alt="Chance Encounter at a Korean City Bus Stop"></a> | [Chance Encounter at a Korean City Bus Stop](https://x.com/saniaspeaks_/status/2091103923440328783) | [@saniaspeaks_](https://x.com/saniaspeaks_) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2091103923440328783) |
 
-<sub>+71 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character).</sub>
-## 🐉 Fantasy & Worlds (66)
+<sub>+74 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character).</sub>
+## 🐉 Fantasy & Worlds (81)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -71,8 +71,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/laviniavelle/status/2105889515948921057"><img src="https://media.goodcase.ai/cases/3b8cf445eb84.jpg" width="160" alt="Woman in White Leaves a Castle and Flies to Pink-Moon Floating Islands"></a> | [Woman in White Leaves a Castle and Flies to Pink-Moon Floating Islands](https://x.com/laviniavelle/status/2105889515948921057) | [@laviniavelle](https://x.com/laviniavelle) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2105889515948921057) |
 | <a href="https://x.com/Chaemate_/status/2105958420088328486"><img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="160" alt="Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle"></a> | [Silver-Haired Dual-Sword Warrior Assaults a Japanese Castle](https://x.com/Chaemate_/status/2105958420088328486) | [@Chaemate_](https://x.com/Chaemate_) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2105958420088328486) |
 
-<sub>+56 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy).</sub>
-## 📣 Brand & Commercial (143)
+<sub>+73 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy).</sub>
+## 📣 Brand & Commercial (148)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -85,8 +85,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/saniaspeaks_/status/2088605003112235033"><img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="160" alt="Tokyo Street Food Phone Vlog"></a> | [Tokyo Street Food Phone Vlog](https://x.com/saniaspeaks_/status/2088605003112235033) | [@saniaspeaks_](https://x.com/saniaspeaks_) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2088605003112235033) |
 | <a href="https://x.com/AIwithkhan/status/2107081013583089797"><img src="https://media.goodcase.ai/cases/94eb3d1f1cb9.jpg" width="160" alt="Woman with Headphones Strolls the City and Enjoys a Rooftop Sunset"></a> | [Woman with Headphones Strolls the City and Enjoys a Rooftop Sunset](https://x.com/AIwithkhan/status/2107081013583089797) | [@AIwithkhan](https://x.com/AIwithkhan) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107081013583089797) |
 
-<sub>+132 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial).</sub>
-## 🎵 Music & Long-form (73)
+<sub>+140 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial).</sub>
+## 🎵 Music & Long-form (74)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -99,8 +99,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/MonetizationDon/status/2086585814624919552"><img src="https://pbs.twimg.com/amplify_video_thumb/2086583513290043392/img/oTsR31Uu25KuRgJe.jpg" width="160" alt="I Turned Alexa Grey Into The Lead Of"></a> | [I Turned Alexa Grey Into The Lead Of](https://x.com/MonetizationDon/status/2086585814624919552) | [@MonetizationDon](https://x.com/MonetizationDon) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086585814624919552) |
 | <a href="https://x.com/JamianGerard/status/2085556430833131701"><img src="https://pbs.twimg.com/amplify_video_thumb/2085556273215307776/img/MFzoncztyQoKvsdf.jpg" width="160" alt="First Test With Us Seedance 2.5, Focused On"></a> | [First Test With Us Seedance 2.5, Focused On](https://x.com/JamianGerard/status/2085556430833131701) | [@JamianGerard](https://x.com/JamianGerard) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2085556430833131701) |
 
-<sub>+65 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music).</sub>
-## ⚖️ Comparisons (30)
+<sub>+66 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music).</sub>
+## ⚖️ Comparisons (32)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -113,8 +113,8 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://x.com/PixWizardry/status/2085493352502284575"><img src="https://pbs.twimg.com/amplify_video_thumb/2085492585578070016/img/JB5tv8x6ygaY59KT.jpg" width="160" alt="H3 Model Vs Seedance 2.5? Just T2V And"></a> | [H3 Model Vs Seedance 2.5? Just T2V And](https://x.com/PixWizardry/status/2085493352502284575) | [@PixWizardry](https://x.com/PixWizardry) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2085493352502284575) |
 | <a href="https://x.com/yesand_ai/status/2084129980351656404"><img src="https://pbs.twimg.com/amplify_video_thumb/2084126097067900928/img/rFm5vdw48WE-ZVqI.jpg" width="160" alt="Seedance 2.5 Vs Minimax H3 Prompt Skateboarding City"></a> | [Seedance 2.5 Vs Minimax H3 Prompt Skateboarding City](https://x.com/yesand_ai/status/2084129980351656404) | [@yesand_ai](https://x.com/yesand_ai) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2084129980351656404) |
 
-<sub>+22 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=compare).</sub>
-## 🧩 Other (fun, platform tests) (11)
+<sub>+24 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=compare).</sub>
+## 🧩 Other (fun, platform tests) (15)
 
 | Preview | Work | Creator | Prompt |
 |---|---|---|---|
@@ -127,7 +127,7 @@ See `.claude-plugin/marketplace.json` and `skills/catalog.json`. Category packs 
 | <a href="https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#prompt-sd25cap_006"><img src="https://xianyu110.github.io/awesome-seedance-2.5/assets/covers/atlas/sd25cap_006.jpg" width="160" alt="Complex Emotions In Theater Audience"></a> | [Complex Emotions In Theater Audience](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#prompt-sd25cap_006) | [@ByteDance_Seedance](https://x.com/ByteDance_Seedance) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#sd25cap_006) |
 | <a href="https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#prompt-sd25cap_007"><img src="https://xianyu110.github.io/awesome-seedance-2.5/assets/covers/atlas/sd25cap_007.jpg" width="160" alt="Acceptance Letter's Quiet Joy"></a> | [Acceptance Letter's Quiet Joy](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#prompt-sd25cap_007) | [@ByteDance_Seedance](https://x.com/ByteDance_Seedance) | [prompt](https://xianyu110.github.io/awesome-seedance-2.5/#sd25cap_007) |
 
-<sub>+2 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=other).</sub>
+<sub>+7 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=other).</sub>
 
 
 ## Related
@@ -141,7 +141,7 @@ Community-related entry points for trying Seedance 2.5 (unofficial; use at your 
 
 ## Data
 
-- [`cases.json`](cases.json) — 1087 cases, updated 2026-10-16 11:59 (UTC+8)
+- [`cases.json`](cases.json) — 1112 cases, updated 2026-10-20 11:53 (UTC+8)
 
 ## License
 
