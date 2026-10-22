@@ -2,7 +2,7 @@
 
 [English](README.en.md) | 简体中文
 
-这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **1130 个「视频 + 公开提示词」案例**（AtlasCloudAI/awesome-seedance-2.5-prompts-skills 415 · BeatAPI/awesome-seedance-2-5-prompts 318 · LearnPrompt/awesome-seedance 141 · incendies/seedance-2.5-prompts-api-and-guide 100 · X original post 63 · X original post (author reply) 56 · EvoLinkAI/awesome-seedance-2.5-guide 24 · apimodels/awesome-seedance2.5-prompts 8 · other 4 · LearnPrompt/awesome-seedance + X 1），分 8 类。每条都署名并链接到原帖，可一键复制提示词。
+这里收集了创作者明确用 **Seedance 2.5** 做出、并**公开了提示词**的电影感短片、生活流 Vlog、角色一致图生视频、奇幻世界、品牌片等。当前共 **1147 个「视频 + 公开提示词」案例**（AtlasCloudAI/awesome-seedance-2.5-prompts-skills 415 · BeatAPI/awesome-seedance-2-5-prompts 318 · LearnPrompt/awesome-seedance 141 · incendies/seedance-2.5-prompts-api-and-guide 100 · X original post 70 · X original post (author reply) 66 · EvoLinkAI/awesome-seedance-2.5-guide 24 · apimodels/awesome-seedance2.5-prompts 8 · other 4 · LearnPrompt/awesome-seedance + X 1），分 8 类。每条都署名并链接到原帖，可一键复制提示词。
 
 **这是 Seedance 2.5 版本专项、且只收有公开提示词的画廊**。仅有视频、无提示词的帖子不收录。跨版本大合集请看 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)；结构对齐 [awesome-nano-banana-2.1](https://github.com/xianyu110/awesome-nano-banana-2.1)。
 
@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-[🎬 电影感 / 动作](#cinematic) · [🎒 生活流 / Vlog](#lifestyle) · [🧑‍🎨 角色一致 / 图生视频](#character) · [🐉 奇幻 / 世界观](#fantasy) · [📣 品牌 / 广告](#commercial) · [🎵 音乐 / 长片](#music) · [⚖️ 对比评测](#compare) · [🧩 其他](#other) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [Agent Skills](#agent-skills) · [来源仓库](#来源仓库) · [相关链接](#相关链接) · [数据](#数据)
+[🎬 电影感 / 动作](#cinematic) · [🎒 生活流 / Vlog](#lifestyle) · [🧑‍🎨 角色一致 / 图生视频](#character) · [🐉 奇幻 / 世界观](#fantasy) · [📣 品牌 / 广告](#commercial) · [🎵 音乐 / 长片](#music) · [⚖️ 对比评测](#compare) · [🧩 其他](#other) · [收录标准](#收录标准) · [Seedance 2.5 是什么](#seedance-25-是什么) · [Agent Skills](#agent-skills) · [来源仓库](#来源仓库) · [数据](#数据)
 
 ## 收录标准
 
@@ -37,7 +37,7 @@
 - 作者/条目**明确写了是 Seedance 2.5**（含 Seedance2.5 / #Seedance2.5）。**不收录**仅写 Seedance / 2.0 / Mini / Fast 而未标明 2.5 的作品。
 - **必须有公开提示词**（≥80 字）与预览封面。
 - 按 URL / 提示词哈希去重；README 每类展示代表作，完整列表见在线画廊。
-- 互动数为整理时快照（2026-10-21 11:50 (UTC+8)）。导入条目在 `cases.json` 的 `source_attribution` 字段署名。
+- 互动数为整理时快照（2026-10-22 12:00 (UTC+8)）。导入条目在 `cases.json` 的 `source_attribution` 字段署名。
 
 ## Seedance 2.5 是什么
 
@@ -54,7 +54,7 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 <a id="cinematic"></a>
 ## 🎬 电影感 / 动作
 
-588 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic)
+598 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -71,11 +71,11 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 | <a href="https://x.com/wavespeed_ai/status/2087366157489803693"><img src="https://pbs.twimg.com/amplify_video_thumb/2087365178522468352/img/JATIs7lVH9GlLvkI.jpg" width="160" alt="Seedance 2.5. Wan 3.0. Minimax H3. Three Of"></a> | [Seedance 2.5. Wan 3.0. Minimax H3. Three Of](https://x.com/wavespeed_ai/status/2087366157489803693) | Seedance 2.5 | [@wavespeed_ai](https://x.com/wavespeed_ai) | 0:12 | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2087366157489803693) |
 | <a href="https://x.com/johnAGI168/status/2095025524586193105"><img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="160" alt="Seedance：不会有人认为这是真的吧？😄"></a> | [Seedance：不会有人认为这是真的吧？😄](https://x.com/johnAGI168/status/2095025524586193105) | Seedance 2.5 | [@johnAGI168](https://x.com/johnAGI168) | — | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2095025524586193105) |
 
-<sub>本类另有 576 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic) / `cases.json`。</sub>
+<sub>本类另有 586 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic) / `cases.json`。</sub>
 <a id="lifestyle"></a>
 ## 🎒 生活流 / Vlog
 
-104 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle)
+105 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 | <a href="https://x.com/Lianaalane/status/2106951270380802264"><img src="https://media.goodcase.ai/cases/44495a5166ef.jpg" width="160" alt="韩国女孩的雨天街巷与小店之旅"></a> | [韩国女孩的雨天街巷与小店之旅](https://x.com/Lianaalane/status/2106951270380802264) | Seedance 2.5 | [@Lianaalane](https://x.com/Lianaalane) | — | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2106951270380802264) |
 | <a href="https://x.com/doctorwasif/status/2107824210899055039"><img src="https://media.goodcase.ai/cases/a904b5da80b2.jpg" width="160" alt="韩国女子的居家午后：护绿植、叠衣与美甲"></a> | [韩国女子的居家午后：护绿植、叠衣与美甲](https://x.com/doctorwasif/status/2107824210899055039) | Seedance 2.5 | [@doctorwasif](https://x.com/doctorwasif) | — | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2107824210899055039) |
 
-<sub>本类另有 92 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle) / `cases.json`。</sub>
+<sub>本类另有 93 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle) / `cases.json`。</sub>
 <a id="character"></a>
 ## 🧑‍🎨 角色一致 / 图生视频
 
@@ -117,7 +117,7 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 <a id="fantasy"></a>
 ## 🐉 奇幻 / 世界观
 
-83 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy)
+88 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -134,11 +134,11 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 | <a href="https://x.com/itxabdullaa/status/2107792780395458733"><img src="https://media.goodcase.ai/cases/2ecf28ab3d4e.jpg" width="160" alt="林间守护者循灯发现古树秘境"></a> | [林间守护者循灯发现古树秘境](https://x.com/itxabdullaa/status/2107792780395458733) | Seedance 2.5 | [@itxabdullaa](https://x.com/itxabdullaa) | 0:30 | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2107792780395458733) |
 | <a href="https://x.com/Zarnab_with_Ai/status/2108504570603491475"><img src="https://media.goodcase.ai/cases/9784906f7de1.jpg" width="160" alt="宝宝与小动物乘西瓜船畅游奇幻水果河"></a> | [宝宝与小动物乘西瓜船畅游奇幻水果河](https://x.com/Zarnab_with_Ai/status/2108504570603491475) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | 0:03 | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2108504570603491475) |
 
-<sub>本类另有 71 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy) / `cases.json`。</sub>
+<sub>本类另有 76 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy) / `cases.json`。</sub>
 <a id="commercial"></a>
 ## 📣 品牌 / 广告
 
-151 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial)
+152 个作品 · [在线画廊查看本类](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@ ByteDance Seed 团队在 Seedance 2.0 音视频联合架构上的下一代模型
 | <a href="https://x.com/AIwithkhan/status/2108180243244818861"><img src="https://media.goodcase.ai/cases/508218b6096e.jpg" width="160" alt="微缩女子的巨型洗衣房冒险"></a> | [微缩女子的巨型洗衣房冒险](https://x.com/AIwithkhan/status/2108180243244818861) | Seedance 2.5 | [@AIwithkhan](https://x.com/AIwithkhan) | — | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2108180243244818861) |
 | <a href="https://x.com/tanabe_fragm/status/2096136682055864564"><img src="https://media.goodcase.ai/cases/9012527ae2ae.jpg" width="160" alt="日本网红假日 Vlog"></a> | [日本网红假日 Vlog](https://x.com/tanabe_fragm/status/2096136682055864564) | Seedance 2.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:30 | [提示词](https://xianyu110.github.io/awesome-seedance-2.5/#2096136682055864564) |
 
-<sub>本类另有 139 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial) / `cases.json`。</sub>
+<sub>本类另有 140 条，见 [在线画廊](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial) / `cases.json`。</sub>
 <a id="music"></a>
 ## 🎵 音乐 / 长片
 
@@ -244,9 +244,9 @@ npx skills add xianyu110/awesome-seedance-2.5
 
 ## 数据
 
-- 机器可读：[`cases.json`](cases.json)（1130 条）
+- 机器可读：[`cases.json`](cases.json)（1147 条）
 - 在线画廊：[https://xianyu110.github.io/awesome-seedance-2.5/](https://xianyu110.github.io/awesome-seedance-2.5/)
-- 更新于 2026-10-21 11:50 (UTC+8)
+- 更新于 2026-10-22 12:00 (UTC+8)
 
 ## License
 
