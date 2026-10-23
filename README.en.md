@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-Public **Seedance 2.5** cases with **copyable prompts** and preview media. **1147** cases across 8 categories (AtlasCloudAI/awesome-seedance-2.5-prompts-skills 415 · BeatAPI/awesome-seedance-2-5-prompts 318 · LearnPrompt/awesome-seedance 141 · incendies/seedance-2.5-prompts-api-and-guide 100 · X original post 70 · X original post (author reply) 66 · EvoLinkAI/awesome-seedance-2.5-guide 24 · apimodels/awesome-seedance2.5-prompts 8 · other 4 · LearnPrompt/awesome-seedance + X 1).
+Public **Seedance 2.5** cases with **copyable prompts** and preview media. **1174** cases across 8 categories (AtlasCloudAI/awesome-seedance-2.5-prompts-skills 415 · BeatAPI/awesome-seedance-2-5-prompts 318 · LearnPrompt/awesome-seedance 141 · incendies/seedance-2.5-prompts-api-and-guide 100 · X original post 84 · X original post (author reply) 79 · EvoLinkAI/awesome-seedance-2.5-guide 24 · apimodels/awesome-seedance2.5-prompts 8 · other 4 · LearnPrompt/awesome-seedance + X 1) 66 · EvoLinkAI/awesome-seedance-2.5-guide 24 · apimodels/awesome-seedance2.5-prompts 8 · other 4 · LearnPrompt/awesome-seedance + X 1).
 
 **Seedance 2.5 only** (not 2.0 / Mini / Fast). Video-only posts without prompts are excluded.
 
@@ -38,13 +38,13 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 
 ## Data
 
-- [`cases.json`](cases.json) — 1147 cases, updated 2026-10-22 12:00 (UTC+8)
+- [`cases.json`](cases.json) — 1174 cases, updated 2026-10-23 12:00 (UTC+8)
 - Gallery: [https://xianyu110.github.io/awesome-seedance-2.5/](https://xianyu110.github.io/awesome-seedance-2.5/)
 
 <a id="cinematic"></a>
 ## 🎬 Cinematic & Action
 
-598 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic)
+609 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic)
 
 | Preview | Title | Model | Creator | Dur | Prompt |
 |---|---|---|---|---|---|
@@ -61,11 +61,11 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 | <a href="https://x.com/wavespeed_ai/status/2087366157489803693"><img src="https://pbs.twimg.com/amplify_video_thumb/2087365178522468352/img/JATIs7lVH9GlLvkI.jpg" width="160" alt="Seedance 2.5. Wan 3.0. Minimax H3. Three Of"></a> | [Seedance 2.5. Wan 3.0. Minimax H3. Three Of](https://x.com/wavespeed_ai/status/2087366157489803693) | Seedance 2.5 | [@wavespeed_ai](https://x.com/wavespeed_ai) | 0:12 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2087366157489803693) |
 | <a href="https://x.com/johnAGI168/status/2095025524586193105"><img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="160" alt="Seedance 2.5 Dance Clip Real Enough to Fool You"></a> | [Seedance 2.5 Dance Clip Real Enough to Fool You](https://x.com/johnAGI168/status/2095025524586193105) | Seedance 2.5 | [@johnAGI168](https://x.com/johnAGI168) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2095025524586193105) |
 
-<sub>+586 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic) / `cases.json`.</sub>
+<sub>+597 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=cinematic) / `cases.json`.</sub>
 <a id="lifestyle"></a>
 ## 🎒 Lifestyle & Vlog
 
-105 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle)
+108 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle)
 
 | Preview | Title | Model | Creator | Dur | Prompt |
 |---|---|---|---|---|---|
@@ -82,11 +82,11 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 | <a href="https://x.com/Lianaalane/status/2106951270380802264"><img src="https://media.goodcase.ai/cases/44495a5166ef.jpg" width="160" alt="A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery"></a> | [A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery](https://x.com/Lianaalane/status/2106951270380802264) | Seedance 2.5 | [@Lianaalane](https://x.com/Lianaalane) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2106951270380802264) |
 | <a href="https://x.com/doctorwasif/status/2107824210899055039"><img src="https://media.goodcase.ai/cases/a904b5da80b2.jpg" width="160" alt="A Korean Woman’s Afternoon at Home: Plants, Laundry and Nails"></a> | [A Korean Woman’s Afternoon at Home: Plants, Laundry and Nails](https://x.com/doctorwasif/status/2107824210899055039) | Seedance 2.5 | [@doctorwasif](https://x.com/doctorwasif) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107824210899055039) |
 
-<sub>+93 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle) / `cases.json`.</sub>
+<sub>+96 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=lifestyle) / `cases.json`.</sub>
 <a id="character"></a>
 ## 🧑‍🎨 Character & I2V
 
-82 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character)
+84 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character)
 
 | Preview | Title | Model | Creator | Dur | Prompt |
 |---|---|---|---|---|---|
@@ -103,11 +103,11 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 | <a href="https://x.com/FellMentKE/status/2084150223723753857"><img src="https://pbs.twimg.com/amplify_video_thumb/2084150200281812993/img/1yL5Ml7uEpY6kGf9.jpg" width="160" alt="I’Ve Been Playing With Seedance 2.5 On Capcut"></a> | [I’Ve Been Playing With Seedance 2.5 On Capcut](https://x.com/FellMentKE/status/2084150223723753857) | Seedance 2.5 | [@FellMentKE](https://x.com/FellMentKE) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2084150223723753857) |
 | <a href="https://x.com/n__deborah/status/2084150186474119296"><img src="https://pbs.twimg.com/amplify_video_thumb/2084150166156869632/img/fYV3s7UddqIii_eS.jpg" width="160" alt="Not Going To Lie, Seedance 2.5 Being On"></a> | [Not Going To Lie, Seedance 2.5 Being On](https://x.com/n__deborah/status/2084150186474119296) | Seedance 2.5 | [@n__deborah](https://x.com/n__deborah) | 0:15 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2084150186474119296) |
 
-<sub>+70 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character) / `cases.json`.</sub>
+<sub>+72 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=character) / `cases.json`.</sub>
 <a id="fantasy"></a>
 ## 🐉 Fantasy & Worlds
 
-88 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy)
+96 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy)
 
 | Preview | Title | Model | Creator | Dur | Prompt |
 |---|---|---|---|---|---|
@@ -124,11 +124,11 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 | <a href="https://x.com/itxabdullaa/status/2107792780395458733"><img src="https://media.goodcase.ai/cases/2ecf28ab3d4e.jpg" width="160" alt="Woodland Guardian Follows Lanterns to a Hidden Tree Settlement"></a> | [Woodland Guardian Follows Lanterns to a Hidden Tree Settlement](https://x.com/itxabdullaa/status/2107792780395458733) | Seedance 2.5 | [@itxabdullaa](https://x.com/itxabdullaa) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2107792780395458733) |
 | <a href="https://x.com/Zarnab_with_Ai/status/2108504570603491475"><img src="https://media.goodcase.ai/cases/9784906f7de1.jpg" width="160" alt="Babies and Animals Sail Watermelon Boats on a Fantasy Fruit River"></a> | [Babies and Animals Sail Watermelon Boats on a Fantasy Fruit River](https://x.com/Zarnab_with_Ai/status/2108504570603491475) | Seedance 2.5 | [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) | 0:03 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108504570603491475) |
 
-<sub>+76 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy) / `cases.json`.</sub>
+<sub>+84 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=fantasy) / `cases.json`.</sub>
 <a id="commercial"></a>
 ## 📣 Brand & Commercial
 
-152 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial)
+154 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial)
 
 | Preview | Title | Model | Creator | Dur | Prompt |
 |---|---|---|---|---|---|
@@ -145,11 +145,11 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 | <a href="https://x.com/AIwithkhan/status/2108180243244818861"><img src="https://media.goodcase.ai/cases/508218b6096e.jpg" width="160" alt="A Miniature Woman’s Adventure in a Giant Laundry Room"></a> | [A Miniature Woman’s Adventure in a Giant Laundry Room](https://x.com/AIwithkhan/status/2108180243244818861) | Seedance 2.5 | [@AIwithkhan](https://x.com/AIwithkhan) | — | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2108180243244818861) |
 | <a href="https://x.com/tanabe_fragm/status/2096136682055864564"><img src="https://media.goodcase.ai/cases/9012527ae2ae.jpg" width="160" alt="Japanese Influencer Holiday Vlog"></a> | [Japanese Influencer Holiday Vlog](https://x.com/tanabe_fragm/status/2096136682055864564) | Seedance 2.5 | [@tanabe_fragm](https://x.com/tanabe_fragm) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2096136682055864564) |
 
-<sub>+140 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial) / `cases.json`.</sub>
+<sub>+142 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=commercial) / `cases.json`.</sub>
 <a id="music"></a>
 ## 🎵 Music & Long-form
 
-75 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music)
+76 cases · [Open in gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music)
 
 | Preview | Title | Model | Creator | Dur | Prompt |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@ Public **Seedance 2.5** cases with **copyable prompts** and preview media. **114
 | <a href="https://x.com/westkast/status/2084815172900663735"><img src="https://pbs.twimg.com/amplify_video_thumb/2084814267765710848/img/GQUFVJwGTvs1QIIU.jpg" width="160" alt="Fashion Fiction — Music Muses Seedance 2.5 Is"></a> | [Fashion Fiction — Music Muses Seedance 2.5 Is](https://x.com/westkast/status/2084815172900663735) | Seedance 2.5 | [@westkast](https://x.com/westkast) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2084815172900663735) |
 | <a href="https://x.com/TopMediai/status/2086996076842631488"><img src="https://pbs.twimg.com/amplify_video_thumb/2086995666971279360/img/J-KL2UhmlGnRUBV8.jpg" width="160" alt="𝐒𝐞𝐞𝐝𝐚𝐧𝐜𝐞 𝟐.𝟓 For A Hip-Hop Music Video… In"></a> | [𝐒𝐞𝐞𝐝𝐚𝐧𝐜𝐞 𝟐.𝟓 For A Hip-Hop Music Video… In](https://x.com/TopMediai/status/2086996076842631488) | Seedance 2.5 | [@TopMediai](https://x.com/TopMediai) | 0:30 | [Prompt](https://xianyu110.github.io/awesome-seedance-2.5/#2086996076842631488) |
 
-<sub>+63 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music) / `cases.json`.</sub>
+<sub>+64 more in the [gallery](https://xianyu110.github.io/awesome-seedance-2.5/?cat=music) / `cases.json`.</sub>
 <a id="compare"></a>
 ## ⚖️ Comparisons
 
